@@ -31,7 +31,7 @@ function Loja() {
       
         buscarProdutos()
           .then(data => {
-            setProdutos(data); // Agora 'data' é reconhecido como Produto[]
+            setProdutos(data); 
             setIsLoading(false);
           })
           .catch(error => {

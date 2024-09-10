@@ -1,5 +1,4 @@
-import { useState } from 'react';
-import { Button, AppBar, Toolbar, Menu, MenuItem } from '@mui/material';
+import { Toolbar, AppBar } from '@mui/material';
 
 function MenuSuperior() {
 
@@ -8,11 +7,11 @@ function MenuSuperior() {
   return (
     <div>
       <AppBar position="static">
-        <Toolbar>          
+        <Toolbar>
           {/* Other buttons */}
         </Toolbar>
       </AppBar>
-    </div>  
+    </div>
   );
 }
 
