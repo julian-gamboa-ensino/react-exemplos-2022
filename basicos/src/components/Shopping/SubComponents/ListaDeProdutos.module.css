@@ -4,7 +4,12 @@
     text-align: center; 
 }
 
-.lista li {
-  background-color: #98bee7;
+.lista li:nth-child(even) { /* Seleciona os elementos pares */
+  background-color: #98bee7; /* Cor para os pares */
+  color: black;
+}
+
+.lista li:nth-child(odd) { /* Seleciona os elementos ímpares */
+  background-color: #e0f2f7; /* Cor para os ímpares */
   color: black;
 }

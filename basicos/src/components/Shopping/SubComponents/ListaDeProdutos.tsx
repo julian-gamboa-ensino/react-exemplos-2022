@@ -14,7 +14,7 @@ const ListaDeProdutos: React.FC<ListaDeProdutosProps> = ({ produtos, onAdicionar
         <ListItem
           key={produto.id}
           component="li" //ListaDeProdutos.module.css
-          className={styles.item} // ListaDeProdutos.module.css
+          //className={styles.item} // ListaDeProdutos.module.css
         >
 
 

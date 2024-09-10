@@ -1,0 +1,18 @@
+{
+    "produtos": [
+    { "id": 1, "nome": "Camiseta", "preco": 29.90, "descricao": "Camiseta 100% algodão", "imagem": "camiseta.jpg" },
+    { "id": 2, "nome": "Calça Jeans", "preco": 79.90, "descricao": "Calça jeans tradicional", "imagem": "calca.jpg" }
+  ],
+  "posts": [
+    { "id": "1", "title": "a title", "views": 100 },
+    { "id": "2", "title": "another title", "views": 200 }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+

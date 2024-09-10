@@ -6,13 +6,13 @@ import CarrinhoDeCompras from './SubComponents/CarrinhoDeCompras';
 import MensagemDeErro from './SubComponents/MensagemDeErro';
 import LoadingSpinner from './SubComponents/LoadingSpinner';
 
-
+import styles from './Loja.module.css';
 
 function Loja() {
 
     const [produtos, setProdutos] = useState<Produto[]>([]);
     const [carrinho, setCarrinho] = useState<Produto[]>([]);
-    const [isLoading, setIsLoading] = useState(true); 
+    const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState<Error | null>(null);
 
     const adicionarAoCarrinho = (produto: Produto) => {
@@ -36,8 +36,10 @@ function Loja() {
     }, []);
 
     return (
-        <div>
-            <h2>Produtos</h2>
+        <div >
+            <h2 className={styles.titulo} >
+                Produtos
+            </h2>
 
             {isLoading && <LoadingSpinner />}
 
@@ -51,7 +53,8 @@ function Loja() {
             )}
 
             <h2>Carrinho de Compras</h2>
-            <CarrinhoDeCompras carrinho={carrinho} /> {/* Passa o carrinho para o componente */}        </div>
+            <CarrinhoDeCompras carrinho={carrinho} />
+        </div>
     );
 }
 
