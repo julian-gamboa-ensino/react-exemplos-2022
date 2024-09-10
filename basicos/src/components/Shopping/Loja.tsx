@@ -12,12 +12,17 @@ function Loja() {
 
     const [produtos, setProdutos] = useState<Produto[]>([]);
     const [carrinho, setCarrinho] = useState<Produto[]>([]);
+    
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState<Error | null>(null);
 
     const adicionarAoCarrinho = (produto: Produto) => {
         setCarrinho([...carrinho, produto]);
     };
+
+    const removerDoCarrinho = (produto: Produto) => {
+        setCarrinho(carrinho.filter((item) => item.id !== produto.id));
+      };        
 
     useEffect(() => {
         setIsLoading(true); // Inicia o carregamento
@@ -53,8 +58,10 @@ function Loja() {
             )}
 
             <h2>Carrinho de Compras</h2>
-            <CarrinhoDeCompras carrinho={carrinho} />
-        </div>
+            <CarrinhoDeCompras
+                carrinho={carrinho}
+                onRemoverDoCarrinho={removerDoCarrinho}
+            />         </div>
     );
 }
 
