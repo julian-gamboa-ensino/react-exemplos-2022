@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 
 import Certificado from './models/Certificados';
-import ListaDeCertficados from './SubComponents/ListaDeProdutos';
+import ListaDeCertficados from './SubComponents/ListaDeCertificados';
 import MensagemDeErro from './SubComponents/MensagemDeErro';
 import LoadingSpinner from './SubComponents/LoadingSpinner';
 import { buscarCertificados } from './services/buscarCertficados';
@@ -10,7 +10,7 @@ import styles from './CvReactSetembro2024.module.css';
 
 function CvReactSetembro2024() {
 
-    const [certificados, setProdutos] = useState<Certificado[]>([]);
+    const [certificados, setCertificados] = useState<Certificado[]>([]);
 
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState<Error | null>(null);
@@ -21,7 +21,7 @@ function CvReactSetembro2024() {
 
         buscarCertificados()
             .then(data => {
-                setProdutos(data);
+                setCertificados(data);
                 setIsLoading(false);
             })
             .catch(error => {
@@ -43,7 +43,7 @@ function CvReactSetembro2024() {
 
             {!isLoading && !error && (
                 <ListaDeCertficados
-                produtos={certificados}
+                certificados={certificados}
                 />
             )}
 
