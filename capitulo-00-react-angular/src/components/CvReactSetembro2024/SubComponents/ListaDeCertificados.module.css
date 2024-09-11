@@ -1,0 +1,28 @@
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+  
+    &:last-child {
+      border-bottom: none;
+    }
+  
+    &:nth-child(odd) {
+      background-color: #c4cfff;
+    }
+  
+    /* Centraliza qualquer conteúdo textual */
+    a {
+      text-align: center;
+      width: 100%;
+      color: #007bff;
+      text-decoration: none;
+  
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  
