@@ -1,14 +1,24 @@
+import BasicInfo from './components/BasicInfo/BasicInfo';
 import CvReactSetembro2024 from './components/CvReactSetembro2024/CvReactSetembro2024';
-
+import Grid from '@mui/material/Grid';
 
 function App() {
-
   return (
-    <>
-      
-      <CvReactSetembro2024 />
-    </>
-  )
+    <Grid container spacing={2} justifyContent="space-between"> 
+      <Grid item xs={12} sm={6}> 
+        <BasicInfo
+          name="Julian Gamboa"
+          email="julian.gamboa.ms.2021@gmail.com"
+          linkedinUrl="https://www.linkedin.com/in/julian-gamboa-bahia/"
+          gitUrl="https://github.com/julian-gamboa-ensino/"
+          photoUrl="https://avatars.githubusercontent.com/u/35019237?v=4"
+        />
+      </Grid>
+      <Grid item xs={12} sm={3}> {/* Use the same width as the first column */}
+        <CvReactSetembro2024 />
+      </Grid>
+    </Grid>
+  );
 }
 
-export default App
+export default App;
