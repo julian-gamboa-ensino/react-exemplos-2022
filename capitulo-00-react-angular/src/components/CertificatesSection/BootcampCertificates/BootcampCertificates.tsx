@@ -1,14 +1,13 @@
 import { useEffect, useState } from 'react';
 
-import Certificado from './models/Certificados';
-import ListaDeCertficados from './SubComponents/ListaDeCertificados';
-import MensagemDeErro from './SubComponents/MensagemDeErro';
-import LoadingSpinner from './SubComponents/LoadingSpinner';
-import { buscarCertificados } from './services/buscarCertficados';
+import Certificado from '../models/Certificados';
+import ListaDeCertficados from '../CommonComponents/ListaDeCertificados';
+import MensagemDeErro from '../CommonComponents/MensagemDeErro';
+import LoadingSpinner from '../CommonComponents/LoadingSpinner';
+import { buscarCertificados } from '../services/BootCampCertificatesAPiFecth';
 
-import styles from './CvReactSetembro2024.module.css';
 
-function CvReactSetembro2024() {
+function BootcampCertificates() {
 
     const [certificados, setCertificados] = useState<Certificado[]>([]);
 
@@ -33,18 +32,21 @@ function CvReactSetembro2024() {
 
     return (
         <div >
-            <h2 className={styles.titulo} >
-                Certificados
-            </h2>
+
 
             {isLoading && <LoadingSpinner />}
 
             {error && <MensagemDeErro error={error} />}
 
+
+
             {!isLoading && !error && (
+
                 <ListaDeCertficados
-                certificados={certificados}
+                    certificados={certificados} 
+                    title='Bootcamps'
                 />
+
             )}
 
 
@@ -53,4 +55,4 @@ function CvReactSetembro2024() {
 }
 
 
-export default CvReactSetembro2024;
+export default BootcampCertificates;

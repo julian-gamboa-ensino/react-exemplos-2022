@@ -1,3 +1,15 @@
+
+.titulo{    
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    list-style: none; /* Remove o marcador de lista */
+    border: #007bff;
+    border-style:double;
+
+}
+
+
 .item {
     display: flex;
     justify-content: center;

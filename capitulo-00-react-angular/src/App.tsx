@@ -1,5 +1,6 @@
 import BasicInfo from './components/BasicInfo/BasicInfo';
-import CvReactSetembro2024 from './components/CvReactSetembro2024/CvReactSetembro2024';
+import CertificatesSection from './components/CertificatesSection/CertificatesSection';
+
 import Grid from '@mui/material/Grid';
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
         />
       </Grid>
       <Grid item xs={12} sm={3}> {/* Use the same width as the first column */}
-        <CvReactSetembro2024 />
+        <CertificatesSection />
       </Grid>
     </Grid>
   );
