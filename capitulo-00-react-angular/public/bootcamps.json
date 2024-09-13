@@ -1,0 +1,3247 @@
+[
+    {
+      "id": "1",
+      "title": "Como Ingressar no Futuro Agora Mesmo com ChatGPT",
+      "url": "https://hermes.dio.me/certificates/cover/5MS5NTCO.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Skills Certification: International Acceleration - Infrastructure as Code with Terraform and Python",
+      "url": "https://hermes.dio.me/certificates/cover/BRLJS6QE.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Fundamentos de Go",
+      "url": "https://hermes.dio.me/certificates/cover/4NCJ1ROR.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Introdução à Linguagem Go",
+      "url": "https://hermes.dio.me/certificates/cover/KXQGVOAE.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Creating an Application with Python, FastAPI and Postgres",
+      "url": "https://hermes.dio.me/certificates/cover/6TYMTO7M.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Princípios de Desenvolvimento de Software Colaborativo",
+      "url": "https://hermes.dio.me/certificates/cover/GGZI56TD.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Aula Inaugural: Coding The Future Squadio - Python Data Analytics",
+      "url": "https://hermes.dio.me/certificates/cover/94NDOR00.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Conhecendo o Anaconda, TensorFlow e SciPy",
+      "url": "https://hermes.dio.me/certificates/cover/ZIBKWQXU.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Princípios de IA e Desenvolvimento de Software",
+      "url": "https://hermes.dio.me/certificates/cover/GBY5RVHV.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Aula Inaugural - Microsoft Azure AI Fundamentals",
+      "url": "https://hermes.dio.me/certificates/cover/U6PCFXFI.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Conceitos Fundamentais de IA",
+      "url": "https://hermes.dio.me/certificates/cover/4WOHCLJH.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Desenvolvimento Frontend com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/4403B9AB.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Dominando Algoritmos com Desafios de Código JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/F60E4364.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Dominando Algoritmos com Desafios de Código JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/ED5A862F.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Princípios de Desenvolvimento Colaborativo",
+      "url": "https://hermes.dio.me/certificates/cover/0EDAEDB2.jpg"
+    },
+    {
+      "id": "16",
+      "title": "Aula Inaugural - Desenvolvimento FrontEnd com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/8FD61D5A.jpg"
+    },
+    {
+      "id": "17",
+      "title": "Documentando e Testando sua API Rest com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/707D7C32.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Kotlin no Backend com Spring Boot 3",
+      "url": "https://hermes.dio.me/certificates/cover/F93F2409.jpg"
+    },
+    {
+      "id": "19",
+      "title": "Criando uma Api Rest com Kotlin e Persistência de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/2B93518F.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Contextualizando o Desenvolvimento Web com Spring Boot 3",
+      "url": "https://hermes.dio.me/certificates/cover/2C12807A.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Praticando Sua Lógica de Programação com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/235AFF4C.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Aprendendo Kotlin na Prática em Sua Documentação Oficial",
+      "url": "https://hermes.dio.me/certificates/cover/54904509.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/9795B168.jpg"
+    },
+    {
+      "id": "24",
+      "title": "Tratamento de Exceções em Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/B373D88F.jpg"
+    },
+    {
+      "id": "25",
+      "title": "O Poder das Funções em Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/2EBBA353.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Princípios de Agilidade e Desenvolvimento Colaborativo",
+      "url": "https://hermes.dio.me/certificates/cover/F9A6ECAF.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Aula Inaugural - Desenvolvimento Back-end com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/875CECDC.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Preparando seu Ambiente de Desenvolvimento Kotlin com IntelliJ",
+      "url": "https://hermes.dio.me/certificates/cover/AA0971A7.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Entendendo Bancos de Dados SQL e NoSQL",
+      "url": "https://hermes.dio.me/certificates/cover/B3E442D3.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Introdução a Banco de Dados NoSQL",
+      "url": "https://hermes.dio.me/certificates/cover/9F52331D.jpg"
+    },
+    {
+      "id": "31",
+      "title": "Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional",
+      "url": "https://hermes.dio.me/certificates/cover/31B1054A.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Orientação a Objetos e Tipos de Classes na Prática com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/D277BC60.jpg"
+    },
+    {
+      "id": "33",
+      "title": "Introdução a Banco de Dados Relacionais (SQL)",
+      "url": "https://hermes.dio.me/certificates/cover/E8D28581.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Descubra a Nuvem AWS – LocalizaLabs",
+      "url": "https://hermes.dio.me/certificates/cover/84A461A9.jpg"
+    },
+    {
+      "id": "35",
+      "title": "Fundamentos de Computação em Nuvem na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/5432F8D8.jpg"
+    },
+    {
+      "id": "36",
+      "title": "Talento Cloud PRO",
+      "url": "https://hermes.dio.me/certificates/cover/E650394A.jpg"
+    },
+    {
+      "id": "37",
+      "title": "Conhecendo os Serviços da AWS",
+      "url": "https://hermes.dio.me/certificates/cover/01904BFD.jpg"
+    },
+    {
+      "id": "38",
+      "title": "Criando sua Conta na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/6E1F547D.jpg"
+    },
+    {
+      "id": "39",
+      "title": "Estruturas de Controle de Fluxo e Coleções em Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/F1A8C80E.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Introdução Prática à Linguagem de Programação Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/7E430891.jpg"
+    },
+    {
+      "id": "41",
+      "title": "Conhecendo o Kotlin e Sua Documentação Oficial",
+      "url": "https://hermes.dio.me/certificates/cover/19991E3F.jpg"
+    },
+    {
+      "id": "42",
+      "title": "Princípios de Desenvolvimento Ágil e Colaborativo",
+      "url": "https://hermes.dio.me/certificates/cover/5F4B4958.jpg"
+    },
+    {
+      "id": "43",
+      "title": "Aula Inaugural - Code Update TQI - Backend com Kotlin e Java",
+      "url": "https://hermes.dio.me/certificates/cover/DDA8E951.jpg"
+    },
+    {
+      "id": "44",
+      "title": "Contribuindo em um Projeto Open Source no GitHub",
+      "url": "https://hermes.dio.me/certificates/cover/B5E64836.jpg"
+    },
+    {
+      "id": "45",
+      "title": "Desafios de Projetos: Crie Um Portfólio Vencedor",
+      "url": "https://hermes.dio.me/certificates/cover/E770EBBE.jpg"
+    },
+    {
+      "id": "46",
+      "title": "Versionamento de Código com Git e GitHub",
+      "url": "https://hermes.dio.me/certificates/cover/53BF67D9.jpg"
+    },
+    {
+      "id": "47",
+      "title": "Ganhando Produtividade com Java e Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/278E909B.jpg"
+    },
+    {
+      "id": "48",
+      "title": "Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka",
+      "url": "https://hermes.dio.me/certificates/cover/3D1EDFE9.jpg"
+    },
+    {
+      "id": "49",
+      "title": "Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!",
+      "url": "https://hermes.dio.me/certificates/cover/BB691A60.jpg"
+    },
+    {
+      "id": "50",
+      "title": "Aceleração Internacional DIO - Integrating SQL Databases with Python and MongoDB",
+      "url": "https://hermes.dio.me/certificates/cover/7384B33B.jpg"
+    },
+    {
+      "id": "51",
+      "title": "Conteúdo",
+      "url": "https://hermes.dio.me/certificates/cover/D93C8401.jpg"
+    },
+    {
+      "id": "52",
+      "title": "Ingestion and Manipulation of Data in MongoDB with Python",
+      "url": "https://hermes.dio.me/certificates/cover/22354290.jpg"
+    },
+    {
+      "id": "53",
+      "title": "Integrating and Transforming MySQL Data with Python",
+      "url": "https://hermes.dio.me/certificates/cover/81D9AEE4.jpg"
+    },
+    {
+      "id": "54",
+      "title": "Descubra a Nuvem",
+      "url": "https://hermes.dio.me/certificates/cover/FD3C599D.jpg"
+    },
+    {
+      "id": "55",
+      "title": "Aceleração TQI: Engenharia de Confiabilidade SRE",
+      "url": "https://hermes.dio.me/certificates/cover/0EB414C8.jpg"
+    },
+    {
+      "id": "56",
+      "title": "Painel de Discussão: O Futuro do DevOps e Tendências Emergentes",
+      "url": "https://hermes.dio.me/certificates/cover/7F937083.jpg"
+    },
+    {
+      "id": "57",
+      "title": "Observabilidade e Monitoramento: Antecipando Desafios",
+      "url": "https://hermes.dio.me/certificates/cover/A24FB77B.jpg"
+    },
+    {
+      "id": "58",
+      "title": "Site Reliability Engineering: Garantindo Estabilidade e Performance",
+      "url": "https://hermes.dio.me/certificates/cover/213C696F.jpg"
+    },
+    {
+      "id": "59",
+      "title": "Aprimorando a Eficiência com Arquitetura Cloud e Terraform",
+      "url": "https://hermes.dio.me/certificates/cover/5FB7B6AE.jpg"
+    },
+    {
+      "id": "60",
+      "title": "Aceleração Avanade Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/1EFABCAB.jpg"
+    },
+    {
+      "id": "61",
+      "title": "Conteúdo",
+      "url": "https://hermes.dio.me/certificates/cover/C256DC9B.jpg"
+    },
+    {
+      "id": "62",
+      "title": "APIs REST com Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/F9D6641B.jpg"
+    },
+    {
+      "id": "63",
+      "title": "Criação de Camadas Lógicas em uma Aplicação Spring",
+      "url": "https://hermes.dio.me/certificates/cover/D1A5F169.jpg"
+    },
+    {
+      "id": "64",
+      "title": "Arquitetura de um Projeto Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/4E3842DA.jpg"
+    },
+    {
+      "id": "65",
+      "title": "Apresentação da Empresa",
+      "url": "https://hermes.dio.me/certificates/cover/A0D82461.jpg"
+    },
+    {
+      "id": "66",
+      "title": "Princípios de Agilidade e Desenvolvimento de Software",
+      "url": "https://hermes.dio.me/certificates/cover/764FF531.jpg"
+    },
+    {
+      "id": "67",
+      "title": "TQI Kotlin Backend Developer | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/4CBB3815.jpg"
+    },
+    {
+      "id": "68",
+      "title": "Aula Inaugural - Potência Tech powered by iFood - Angular Developer",
+      "url": "https://hermes.dio.me/certificates/cover/7D806DBD.jpg"
+    },
+    {
+      "id": "69",
+      "title": "Primeiras Páginas Interativas com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/A01FCBF2.jpg"
+    },
+    {
+      "id": "70",
+      "title": "Criando Seu Currículo Online Com HTML e GitHub Pages",
+      "url": "https://hermes.dio.me/certificates/cover/A4366728.jpg"
+    },
+    {
+      "id": "71",
+      "title": "Bootcamp Cloud AWS",
+      "url": "https://hermes.dio.me/certificates/cover/27EAFAFD.jpg"
+    },
+    {
+      "id": "72",
+      "title": "Bootcamp Cloud AWS | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/3E2BEB41.jpg"
+    },
+    {
+      "id": "73",
+      "title": "Segurança, Monitoramento e Suporte na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/73161558.jpg"
+    },
+    {
+      "id": "74",
+      "title": "Adicionando Segurança em APIs na AWS com Amazon Cognito",
+      "url": "https://hermes.dio.me/certificates/cover/3B8ED051.jpg"
+    },
+    {
+      "id": "75",
+      "title": "Preparatório para Certificação AWS Cloud Practitioner",
+      "url": "https://hermes.dio.me/certificates/cover/8FD9BC7B.jpg"
+    },
+    {
+      "id": "76",
+      "title": "AWS Official Content - Preparatório para Certificação AWS Cloud Practitioner",
+      "url": "https://hermes.dio.me/certificates/cover/1769B6DD.jpg"
+    },
+    {
+      "id": "77",
+      "title": "Introdução ao Exame de Certificação AWS Cloud Practitioner",
+      "url": "https://hermes.dio.me/certificates/cover/CB739A8D.jpg"
+    },
+    {
+      "id": "78",
+      "title": "AWS Official Content - Segurança, Monitoramento e Suporte na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/ABA5B5C6.jpg"
+    },
+    {
+      "id": "79",
+      "title": "Assuntos Complementares para o Exame AWS Cloud Practitioner",
+      "url": "https://hermes.dio.me/certificates/cover/BC2B4DB2.jpg"
+    },
+    {
+      "id": "80",
+      "title": "Preços e Planos de Suporte na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/0EF4176C.jpg"
+    },
+    {
+      "id": "81",
+      "title": "Monitoramento e Análise na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/11797767.jpg"
+    },
+    {
+      "id": "82",
+      "title": "Segurança na Nuvem com AWS",
+      "url": "https://hermes.dio.me/certificates/cover/4633DD88.jpg"
+    },
+    {
+      "id": "83",
+      "title": "AWS Foundations",
+      "url": "https://hermes.dio.me/certificates/cover/04F78DC1.jpg"
+    },
+    {
+      "id": "84",
+      "title": "AWS Official Content - Armazenamento e Banco de Dados na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/29661D34.jpg"
+    },
+    {
+      "id": "85",
+      "title": "Armazenamento e Banco de Dados AWS",
+      "url": "https://hermes.dio.me/certificates/cover/53CE50D0.jpg"
+    },
+    {
+      "id": "86",
+      "title": "Compartilhe sua Experiência no Vale do Jacarandá Dourado",
+      "url": "https://hermes.dio.me/certificates/cover/B6300504.jpg"
+    },
+    {
+      "id": "87",
+      "title": "Lançamento - Codecamp | 1st Edition",
+      "url": "https://hermes.dio.me/certificates/cover/0DB5DEB7.jpg"
+    },
+    {
+      "id": "88",
+      "title": "O Vale do Jacarandá Dourado",
+      "url": "https://hermes.dio.me/certificates/cover/2FC8DA39.jpg"
+    },
+    {
+      "id": "89",
+      "title": "O Que São Codecamps DIO",
+      "url": "https://hermes.dio.me/certificates/cover/4D7235CA.jpg"
+    },
+    {
+      "id": "90",
+      "title": "AWS Official Content - Introdução à Computação em Nuvem com AWS",
+      "url": "https://hermes.dio.me/certificates/cover/E5EB7092.jpg"
+    },
+    {
+      "id": "91",
+      "title": "Redes em AWS",
+      "url": "https://hermes.dio.me/certificates/cover/79284417.jpg"
+    },
+    {
+      "id": "92",
+      "title": "Computação em AWS",
+      "url": "https://hermes.dio.me/certificates/cover/F9F7A7D5.jpg"
+    },
+    {
+      "id": "93",
+      "title": "Infraestrutura Global AWS",
+      "url": "https://hermes.dio.me/certificates/cover/FA7F7953.jpg"
+    },
+    {
+      "id": "94",
+      "title": "Introdução ao Conceito de Cloud",
+      "url": "https://hermes.dio.me/certificates/cover/2C9DBAA8.jpg"
+    },
+    {
+      "id": "95",
+      "title": "AWS Official Content - Introdução à Amazon Web Services (AWS)",
+      "url": "https://hermes.dio.me/certificates/cover/E578E104.jpg"
+    },
+    {
+      "id": "96",
+      "title": "Banco PAN Java Developer",
+      "url": "https://hermes.dio.me/certificates/cover/D3BF3E5D.jpg"
+    },
+    {
+      "id": "97",
+      "title": "Banco PAN Java Developer | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/2A83B1ED.jpg"
+    },
+    {
+      "id": "98",
+      "title": "Aceleração Internacional para Profissionais de Tecnologia - Advanced Java Path",
+      "url": "https://hermes.dio.me/certificates/cover/11973180.jpg"
+    },
+    {
+      "id": "99",
+      "title": "Content - Knowing and Walking the Advanced Java Path",
+      "url": "https://hermes.dio.me/certificates/cover/5324FBB5.jpg"
+    },
+    {
+      "id": "100",
+      "title": "Workshop 2: Walking the Path: Java Microservice Development",
+      "url": "https://hermes.dio.me/certificates/cover/E383925F.jpg"
+    },
+    {
+      "id": "101",
+      "title": "Workshop 1: Knowing the Path: Proficiency Recognized Through Oracle Certification",
+      "url": "https://hermes.dio.me/certificates/cover/E3C122AF.jpg"
+    },
+    {
+      "id": "102",
+      "title": "Dominando Algoritmos Intermediários com Desafios de Código Java",
+      "url": "https://hermes.dio.me/certificates/cover/ACE62437.jpg"
+    },
+    {
+      "id": "103",
+      "title": "Orange Tech + | BackEnd",
+      "url": "https://hermes.dio.me/certificates/cover/DBBDAAFF.jpg"
+    },
+    {
+      "id": "104",
+      "title": "Dominando Algoritmos Básicos com Desafios de Código Java",
+      "url": "https://hermes.dio.me/certificates/cover/974D4610.jpg"
+    },
+    {
+      "id": "105",
+      "title": "Ganhando Produtividade com Spring Framework",
+      "url": "https://hermes.dio.me/certificates/cover/D7FF2B82.jpg"
+    },
+    {
+      "id": "106",
+      "title": "Criando uma API REST Conectada ao Amazon RDS com Java",
+      "url": "https://hermes.dio.me/certificates/cover/BCD6572B.jpg"
+    },
+    {
+      "id": "107",
+      "title": "Dominando Algoritmos Intermediários com Desafios de Código Java",
+      "url": "https://hermes.dio.me/certificates/cover/12257024.jpg"
+    },
+    {
+      "id": "108",
+      "title": "Dominando Algoritmos Básicos com Desafios de Código Java",
+      "url": "https://hermes.dio.me/certificates/cover/197BE980.jpg"
+    },
+    {
+      "id": "109",
+      "title": "Fundamentos de Business Intelligence (BI)",
+      "url": "https://hermes.dio.me/certificates/cover/F2EFE574.jpg"
+    },
+    {
+      "id": "110",
+      "title": "Apresentação da Empresa - Avanade",
+      "url": "https://hermes.dio.me/certificates/cover/B088A0DA.jpg"
+    },
+    {
+      "id": "111",
+      "title": "Linux do Zero",
+      "url": "https://hermes.dio.me/certificates/cover/A5B90210.jpg"
+    },
+    {
+      "id": "112",
+      "title": "Linux do Zero | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/94A849C4.jpg"
+    },
+    {
+      "id": "113",
+      "title": "Trabalhando Com Jenkins",
+      "url": "https://hermes.dio.me/certificates/cover/8AF9D174.jpg"
+    },
+    {
+      "id": "114",
+      "title": "GitLab - Conceitos Básicos",
+      "url": "https://hermes.dio.me/certificates/cover/A94E04CD.jpg"
+    },
+    {
+      "id": "115",
+      "title": "Configurando Servidores Linux e Introdução Ao Docker",
+      "url": "https://hermes.dio.me/certificates/cover/589C3323.jpg"
+    },
+    {
+      "id": "116",
+      "title": "DevOps: Tudo o que você precisa saber",
+      "url": "https://hermes.dio.me/certificates/cover/8F991B94.jpg"
+    },
+    {
+      "id": "117",
+      "title": "Hands On: Provisionando Usuários Cloud Identity",
+      "url": "https://hermes.dio.me/certificates/cover/8D96BB4F.jpg"
+    },
+    {
+      "id": "118",
+      "title": "Orange Tech + | BackEnd | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/82B19CE4.jpg"
+    },
+    {
+      "id": "119",
+      "title": "GFT Quality Assurance Para Mulheres | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/444308AD.jpg"
+    },
+    {
+      "id": "120",
+      "title": "Dominando Algoritmos Intermediários com Desafios de Código JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/28C75ACC.jpg"
+    },
+    {
+      "id": "121",
+      "title": "NTT DATA Diversidade em Tech",
+      "url": "https://hermes.dio.me/certificates/cover/E3E61715.jpg"
+    },
+    {
+      "id": "122",
+      "title": "Dominando Algoritmos Básicos com Desafios de Código JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/D081DA81.jpg"
+    },
+    {
+      "id": "123",
+      "title": "Convite para o Minha Carreira Tech - Orange Tech + | BackEnd",
+      "url": "https://hermes.dio.me/certificates/cover/5E514F0E.jpg"
+    },
+    {
+      "id": "124",
+      "title": "Páginas Web com HTML e CSS",
+      "url": "https://hermes.dio.me/certificates/cover/6B066C0B.jpg"
+    },
+    {
+      "id": "125",
+      "title": "Estilizações Básicas com CSS",
+      "url": "https://hermes.dio.me/certificates/cover/8A3748EB.jpg"
+    },
+    {
+      "id": "126",
+      "title": "Dominando Algoritmos Intermediários com Desafios de Código JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/012DBF9D.jpg"
+    },
+    {
+      "id": "127",
+      "title": "Orange Tech +",
+      "url": "https://hermes.dio.me/certificates/cover/7FFE7215.jpg"
+    },
+    {
+      "id": "128",
+      "title": "Dominando Algoritmos Básicos com Desafios de Código JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/9440D2CF.jpg"
+    },
+    {
+      "id": "129",
+      "title": "Começando na Biblioteca React",
+      "url": "https://hermes.dio.me/certificates/cover/36B33C6F.jpg"
+    },
+    {
+      "id": "130",
+      "title": "Implementando Uma Tela de Login Com Validação Usando TypeScript",
+      "url": "https://hermes.dio.me/certificates/cover/FD7F38E0.jpg"
+    },
+    {
+      "id": "131",
+      "title": "Desenvolvendo a Tela de Cadastro da Plataforma Dio com React",
+      "url": "https://hermes.dio.me/certificates/cover/1EBF64A1.jpg"
+    },
+    {
+      "id": "132",
+      "title": "Criando Uma Wiki de Repositórios do GitHub Com React",
+      "url": "https://hermes.dio.me/certificates/cover/DE79ABCF.jpg"
+    },
+    {
+      "id": "133",
+      "title": "Criando Uma Calculadora Com React",
+      "url": "https://hermes.dio.me/certificates/cover/47C18802.jpg"
+    },
+    {
+      "id": "134",
+      "title": "Trabalhando Com Hooks Básicos",
+      "url": "https://hermes.dio.me/certificates/cover/CBAF8F20.jpg"
+    },
+    {
+      "id": "135",
+      "title": "Estilização com Styled-Components",
+      "url": "https://hermes.dio.me/certificates/cover/84DAEFF8.jpg"
+    },
+    {
+      "id": "136",
+      "title": "Trabalhando Com Formulários no React",
+      "url": "https://hermes.dio.me/certificates/cover/AD19EDF0.jpg"
+    },
+    {
+      "id": "137",
+      "title": "Fundamentos do TypeScript",
+      "url": "https://hermes.dio.me/certificates/cover/282E569E.jpg"
+    },
+    {
+      "id": "138",
+      "title": "Convertendo o Projeto de JavaScript para TypeScript",
+      "url": "https://hermes.dio.me/certificates/cover/BEB52FFB.jpg"
+    },
+    {
+      "id": "139",
+      "title": "Primeiros Passos na Biblioteca React",
+      "url": "https://hermes.dio.me/certificates/cover/A0F6B36D.jpg"
+    },
+    {
+      "id": "140",
+      "title": "Iniciando um Projeto com React CLI e Navegação",
+      "url": "https://hermes.dio.me/certificates/cover/96433E73.jpg"
+    },
+    {
+      "id": "141",
+      "title": "Unidades de Medida em CSS",
+      "url": "https://hermes.dio.me/certificates/cover/CF480EA6.jpg"
+    },
+    {
+      "id": "142",
+      "title": "Criando sua Primeira Landing Page com HTML e CSS",
+      "url": "https://hermes.dio.me/certificates/cover/2A145812.jpg"
+    },
+    {
+      "id": "143",
+      "title": "Criando seu Primeiro Site Completo com HTML",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "144",
+      "title": "Criar Uma Página Web Utilizando as Tags Aprendidas",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "145",
+      "title": "Criando Tabelas com HTML",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "146",
+      "title": "Gestão de Identidades com Boas Práticas de Segurança",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "147",
+      "title": "Trabalhando com Terraform",
+      "url": "https://hermes.dio.me/certificates/cover/B59DBFB4.jpg"
+    },
+    {
+      "id": "148",
+      "title": "Trabalhando com Mídias utilizando HTML",
+      "url": "https://hermes.dio.me/certificates/cover/38B3586A.jpg"
+    },
+    {
+      "id": "149",
+      "title": "Estruturando seu HTML + Formatações",
+      "url": "https://hermes.dio.me/certificates/cover/3AFEDF1C.jpg"
+    },
+    {
+      "id": "150",
+      "title": "Trabalhando com Formulários  em HTML",
+      "url": "https://hermes.dio.me/certificates/cover/1DAB8632.jpg"
+    },
+    {
+      "id": "151",
+      "title": "Introdução ao HTML na Prática",
+      "url": "https://hermes.dio.me/certificates/cover/E12BE084.jpg"
+    },
+    {
+      "id": "152",
+      "title": "Entendendo Comunicação Client x Server",
+      "url": "https://hermes.dio.me/certificates/cover/4E50270A.jpg"
+    },
+    {
+      "id": "153",
+      "title": "Configuração de Ambiente React",
+      "url": "https://hermes.dio.me/certificates/cover/1455BA8A.jpg"
+    },
+    {
+      "id": "154",
+      "title": "Orange Tech + | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/FFDDE285.jpg"
+    },
+    {
+      "id": "155",
+      "title": "Cultura DevOps na TQI",
+      "url": "https://hermes.dio.me/certificates/cover/48E6783F.jpg"
+    },
+    {
+      "id": "156",
+      "title": "Jornada DevOps com AWS - Impulso",
+      "url": "https://hermes.dio.me/certificates/cover/C8D17BCB.jpg"
+    },
+    {
+      "id": "157",
+      "title": "Persistência de Dados em Clusters Kubernetes",
+      "url": "https://hermes.dio.me/certificates/cover/5CA2507D.jpg"
+    },
+    {
+      "id": "158",
+      "title": "Serviços de Acesso para Kubernetes Pods",
+      "url": "https://hermes.dio.me/certificates/cover/0A451276.jpg"
+    },
+    {
+      "id": "159",
+      "title": "Criando Imagens Personalizadas com o Docker",
+      "url": "https://hermes.dio.me/certificates/cover/F77E81EF.jpg"
+    },
+    {
+      "id": "160",
+      "title": "Conceitos Básicos Sobre Pods em Kubernetes",
+      "url": "https://hermes.dio.me/certificates/cover/9481A4C0.jpg"
+    },
+    {
+      "id": "161",
+      "title": "Cluster Kubernetes em Nuvem",
+      "url": "https://hermes.dio.me/certificates/cover/7E5AD4AE.jpg"
+    },
+    {
+      "id": "162",
+      "title": "Ambiente de Desenvolvimento Kubernetes",
+      "url": "https://hermes.dio.me/certificates/cover/DC2063A0.jpg"
+    },
+    {
+      "id": "163",
+      "title": "Aula Inaugural - NTT DATA Diversidades em Tech",
+      "url": "https://hermes.dio.me/certificates/cover/EEC922AC.jpg"
+    },
+    {
+      "id": "164",
+      "title": "Cloud Fullstack Bootcamp - Warburg Pincus",
+      "url": "https://hermes.dio.me/certificates/cover/7E262299.jpg"
+    },
+    {
+      "id": "165",
+      "title": "Dominando o Protocolo HTTP e Integrando com a PokeAPI",
+      "url": "https://hermes.dio.me/certificates/cover/0B72C8EF.jpg"
+    },
+    {
+      "id": "166",
+      "title": "Criando um Projeto com HTML/CSS para Listagem de Pokémon",
+      "url": "https://hermes.dio.me/certificates/cover/EDE6A473.jpg"
+    },
+    {
+      "id": "167",
+      "title": "Introdução ao Desenvolvimento Web com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/DE59D759.jpg"
+    },
+    {
+      "id": "168",
+      "title": "Importação e Exportação com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/01B31F89.jpg"
+    },
+    {
+      "id": "169",
+      "title": "Arrays e Estruturas de Repetição em JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/828A4B50.jpg"
+    },
+    {
+      "id": "170",
+      "title": "Criando Objetos e Classes em JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/B010AD70.jpg"
+    },
+    {
+      "id": "171",
+      "title": "Conhecendo Funções JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/150E188F.jpg"
+    },
+    {
+      "id": "172",
+      "title": "Primeiros Passos Com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/0348FB4A.jpg"
+    },
+    {
+      "id": "173",
+      "title": "Construindo uma Pokédex com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/E537E11A.jpg"
+    },
+    {
+      "id": "174",
+      "title": "Infraestrutura Como Código com Serverless Framework na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/999A3B7D.jpg"
+    },
+    {
+      "id": "175",
+      "title": "Criando um Cluster com o Docker Swarm",
+      "url": "https://hermes.dio.me/certificates/cover/D2939656.jpg"
+    },
+    {
+      "id": "176",
+      "title": "Criando um Deploy de uma Aplicação",
+      "url": "https://hermes.dio.me/certificates/cover/4B6292E8.jpg"
+    },
+    {
+      "id": "177",
+      "title": "Definição de um Cluster Swarm Local com o Vagrant",
+      "url": "https://hermes.dio.me/certificates/cover/B03ED163.jpg"
+    },
+    {
+      "id": "178",
+      "title": "Criando um Container de uma Aplicação WEB",
+      "url": "https://hermes.dio.me/certificates/cover/B2106F5F.jpg"
+    },
+    {
+      "id": "179",
+      "title": "Cloud Fullstack Bootcamp - Warburg Pincus | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/749E9DC4.jpg"
+    },
+    {
+      "id": "180",
+      "title": "Fundamentos do CSS",
+      "url": "https://hermes.dio.me/certificates/cover/E648B47D.jpg"
+    },
+    {
+      "id": "181",
+      "title": "Criando um Blog com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/D47546D2.jpg"
+    },
+    {
+      "id": "182",
+      "title": "Criando um Clone do BuzzFeed com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/F40306EF.jpg"
+    },
+    {
+      "id": "183",
+      "title": "Trabalhando com Services no Angular",
+      "url": "https://hermes.dio.me/certificates/cover/0939D281.jpg"
+    },
+    {
+      "id": "184",
+      "title": "Trabalhando com Rotas no Angular",
+      "url": "https://hermes.dio.me/certificates/cover/E940505D.jpg"
+    },
+    {
+      "id": "185",
+      "title": "Módulos Angular",
+      "url": "https://hermes.dio.me/certificates/cover/A2E75AE1.jpg"
+    },
+    {
+      "id": "186",
+      "title": "LifeCycle Hooks Angular",
+      "url": "https://hermes.dio.me/certificates/cover/C1F29707.jpg"
+    },
+    {
+      "id": "187",
+      "title": "Single Page Application com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/A83B2517.jpg"
+    },
+    {
+      "id": "188",
+      "title": "Trabalhando com Componentes Angular",
+      "url": "https://hermes.dio.me/certificates/cover/38FEF5F4.jpg"
+    },
+    {
+      "id": "189",
+      "title": "Introdução ao Ecossistema Angular",
+      "url": "https://hermes.dio.me/certificates/cover/7AFCF85D.jpg"
+    },
+    {
+      "id": "190",
+      "title": "TypeScript para Angular",
+      "url": "https://hermes.dio.me/certificates/cover/CC8A914A.jpg"
+    },
+    {
+      "id": "191",
+      "title": "Trabalhando com Web Components no Front-end",
+      "url": "https://hermes.dio.me/certificates/cover/18A77630.jpg"
+    },
+    {
+      "id": "192",
+      "title": "Potência Tech powered by iFood - Java Beginners",
+      "url": "https://hermes.dio.me/certificates/cover/075DF947.jpg"
+    },
+    {
+      "id": "193",
+      "title": "Trabalhando em Equipes Ágeis",
+      "url": "https://hermes.dio.me/certificates/cover/295B8DC0.jpg"
+    },
+    {
+      "id": "194",
+      "title": "Transformando seu Conhecimento em Artigos Técnicos",
+      "url": "https://hermes.dio.me/certificates/cover/A0398DF4.jpg"
+    },
+    {
+      "id": "195",
+      "title": "Convite para o Minha Carreira Tech | Potência Tech powered by iFood",
+      "url": "https://hermes.dio.me/certificates/cover/26727F7F.jpg"
+    },
+    {
+      "id": "196",
+      "title": "Deixando Seu LinkedIn Atrativo",
+      "url": "https://hermes.dio.me/certificates/cover/DCAC671D.jpg"
+    },
+    {
+      "id": "197",
+      "title": "Aprendendo a Sintaxe Java",
+      "url": "https://hermes.dio.me/certificates/cover/B8A38B16.jpg"
+    },
+    {
+      "id": "198",
+      "title": "Ambiente de Desenvolvimento Java",
+      "url": "https://hermes.dio.me/certificates/cover/C457F043.jpg"
+    },
+    {
+      "id": "199",
+      "title": "Potência Tech powered by iFood - Java Beginners | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/D5BFE3D6.jpg"
+    },
+    {
+      "id": "200",
+      "title": "Sessão 1: Conhecendo o projeto a ser desenvolvido, conexão com o banco de dados PostgreSQL e criação das filas com RabbitMQ",
+      "url": "https://hermes.dio.me/certificates/cover/8EA07C87.jpg"
+    },
+    {
+      "id": "201",
+      "title": "Cloud DevOps Experience Banco Carrefour | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/8D2CEC03.jpg"
+    },
+    {
+      "id": "202",
+      "title": "Organizando Projetos na Google Cloud Platform",
+      "url": "https://hermes.dio.me/certificates/cover/705F167D.jpg"
+    },
+    {
+      "id": "203",
+      "title": "Introdução ao Google Cloud Platform",
+      "url": "https://hermes.dio.me/certificates/cover/7D03A287.jpg"
+    },
+    {
+      "id": "204",
+      "title": "Criando um Pipeline de Deploy com GitLab e Kubernetes",
+      "url": "https://hermes.dio.me/certificates/cover/A9043EDA.jpg"
+    },
+    {
+      "id": "205",
+      "title": "CI-CD Utilizando Kubernetes",
+      "url": "https://hermes.dio.me/certificates/cover/6AC2DB35.jpg"
+    },
+    {
+      "id": "206",
+      "title": "Deployment e Roolback em Clusters Kubernetes",
+      "url": "https://hermes.dio.me/certificates/cover/F9EF2CF4.jpg"
+    },
+    {
+      "id": "207",
+      "title": "Trabalhando com Git e GitLab na Prática",
+      "url": "https://hermes.dio.me/certificates/cover/180F69E7.jpg"
+    },
+    {
+      "id": "208",
+      "title": "Git e GitHub Focado em PullRequest",
+      "url": "https://hermes.dio.me/certificates/cover/A26D37F1.jpg"
+    },
+    {
+      "id": "209",
+      "title": "Kubernetes Overview",
+      "url": "https://hermes.dio.me/certificates/cover/596F6B7E.jpg"
+    },
+    {
+      "id": "210",
+      "title": "Load Balancer",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "211",
+      "title": "Introdução à Plataforma Java",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "212",
+      "title": "Geração Tech Unimed-BH - Ciência de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "213",
+      "title": "R para Machine Learning",
+      "url": "https://hermes.dio.me/certificates/cover/ECC46EB5.jpg"
+    },
+    {
+      "id": "214",
+      "title": "Criando Modelos com Python e Machine Learning para Prever a Evolução do COVID-19 no Brasil",
+      "url": "https://hermes.dio.me/certificates/cover/479DD024.jpg"
+    },
+    {
+      "id": "215",
+      "title": "Análise de dados com Python e Pandas",
+      "url": "https://hermes.dio.me/certificates/cover/6CDB340E.jpg"
+    },
+    {
+      "id": "216",
+      "title": "Aprendendo o Conceito de Herança com Python",
+      "url": "https://hermes.dio.me/certificates/cover/0022CE58.jpg"
+    },
+    {
+      "id": "217",
+      "title": "Introdução à&nbsp;Programação Orientada a Objetos (POO) com Python",
+      "url": "https://hermes.dio.me/certificates/cover/28256A72.jpg"
+    },
+    {
+      "id": "218",
+      "title": "Fundamentos de ETL (Extract, Transform, Load) com Python",
+      "url": "https://hermes.dio.me/certificates/cover/40CF0C54.jpg"
+    },
+    {
+      "id": "219",
+      "title": "Dominando Funções Python",
+      "url": "https://hermes.dio.me/certificates/cover/5B765A30.jpg"
+    },
+    {
+      "id": "220",
+      "title": "Aprendendo a Utilizar Dicionários em Python",
+      "url": "https://hermes.dio.me/certificates/cover/527AAC35.jpg"
+    },
+    {
+      "id": "221",
+      "title": "Aplicando Encapsulamento em Python",
+      "url": "https://hermes.dio.me/certificates/cover/FAA971C1.jpg"
+    },
+    {
+      "id": "222",
+      "title": "Conhecendo Polimorfismo em Python",
+      "url": "https://hermes.dio.me/certificates/cover/12C33785.jpg"
+    },
+    {
+      "id": "223",
+      "title": "POO com Python - Interfaces e Classes Abstratas",
+      "url": "https://hermes.dio.me/certificates/cover/AF108930.jpg"
+    },
+    {
+      "id": "224",
+      "title": "Explorando Conjuntos em Python",
+      "url": "https://hermes.dio.me/certificates/cover/DFD5EC36.jpg"
+    },
+    {
+      "id": "225",
+      "title": "Conhecendo Tuplas em Python",
+      "url": "https://hermes.dio.me/certificates/cover/A6604075.jpg"
+    },
+    {
+      "id": "226",
+      "title": "Trabalhando com Listas em Python",
+      "url": "https://hermes.dio.me/certificates/cover/0700748B.jpg"
+    },
+    {
+      "id": "227",
+      "title": "Manipulando Strings com Python",
+      "url": "https://hermes.dio.me/certificates/cover/B4918EAB.jpg"
+    },
+    {
+      "id": "228",
+      "title": "Estruturas Condicionais e de Repetição em Python",
+      "url": "https://hermes.dio.me/certificates/cover/1C013155.jpg"
+    },
+    {
+      "id": "229",
+      "title": "Tipos de Operadores com Python",
+      "url": "https://hermes.dio.me/certificates/cover/4C9C819E.jpg"
+    },
+    {
+      "id": "230",
+      "title": "Conhecendo a Linguagem de Programação Python",
+      "url": "https://hermes.dio.me/certificates/cover/96FCA527.jpg"
+    },
+    {
+      "id": "231",
+      "title": "Entendendo Machine Learning com Amazon SageMaker",
+      "url": "https://hermes.dio.me/certificates/cover/08957B57.jpg"
+    },
+    {
+      "id": "232",
+      "title": "Python para Machine Learning na Prática",
+      "url": "https://hermes.dio.me/certificates/cover/59D81676.jpg"
+    },
+    {
+      "id": "233",
+      "title": "Québec Java Digital",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "234",
+      "title": "Java e Tratamento de Exceções",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "235",
+      "title": "Estruturas de Repetição em Java",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "236",
+      "title": "Introdução e Estruturas Condicionais com Java",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "237",
+      "title": "Criando uma API REST Documentada com Spring Web e Swagger",
+      "url": "https://hermes.dio.me/certificates/cover/8E76A24A.jpg"
+    },
+    {
+      "id": "238",
+      "title": "Linguagens de Programação para Machine Learning",
+      "url": "https://hermes.dio.me/certificates/cover/44492730.jpg"
+    },
+    {
+      "id": "239",
+      "title": "Treinamento de Redes Neurais com Transfer Learning",
+      "url": "https://hermes.dio.me/certificates/cover/E2A592B3.jpg"
+    },
+    {
+      "id": "240",
+      "title": "Explorando Dados Demográficos com Serviços de Big Data na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/6EEF1EE2.jpg"
+    },
+    {
+      "id": "241",
+      "title": "Boas práticas com DynamoDB",
+      "url": "https://hermes.dio.me/certificates/cover/F48769C3.jpg"
+    },
+    {
+      "id": "242",
+      "title": "Imersão ao Ecossistema Cloud Data AWS",
+      "url": "https://hermes.dio.me/certificates/cover/25EBE2BF.jpg"
+    },
+    {
+      "id": "243",
+      "title": "Desenvolvendo Soluções Serverless na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/831C3DF3.jpg"
+    },
+    {
+      "id": "244",
+      "title": "Primeiros Passos com AWS",
+      "url": "https://hermes.dio.me/certificates/cover/0302ED2E.jpg"
+    },
+    {
+      "id": "245",
+      "title": "Geração Tech Unimed-BH - Ciência de dados | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/37F96FCA.jpg"
+    },
+    {
+      "id": "246",
+      "title": "Pottencial .NET Developer",
+      "url": "https://hermes.dio.me/certificates/cover/E0B04202.jpg"
+    },
+    {
+      "id": "247",
+      "title": "Desafio Tech Pottencial: Payment API",
+      "url": "https://hermes.dio.me/certificates/cover/FFC441F7.jpg"
+    },
+    {
+      "id": "248",
+      "title": "Construindo um Sistema de Agendamento de Tarefas com Entity Framework",
+      "url": "https://hermes.dio.me/certificates/cover/FC9FEEB4.jpg"
+    },
+    {
+      "id": "249",
+      "title": "Frontend com ASP.NET MVC",
+      "url": "https://hermes.dio.me/certificates/cover/4EB5BE09.jpg"
+    },
+    {
+      "id": "250",
+      "title": "Trabalhando com Entity Framework com C#",
+      "url": "https://hermes.dio.me/certificates/cover/F9EA66D0.jpg"
+    },
+    {
+      "id": "251",
+      "title": "Introdução as APIs com C#",
+      "url": "https://hermes.dio.me/certificates/cover/B9B1EBB1.jpg"
+    },
+    {
+      "id": "252",
+      "title": "Criando um Sistema e Abstraindo um Celular com POO em C#",
+      "url": "https://hermes.dio.me/certificates/cover/924A9575.jpg"
+    },
+    {
+      "id": "253",
+      "title": "Classes Abstratas e Interfaces com C#",
+      "url": "https://hermes.dio.me/certificates/cover/2BB3A4A1.jpg"
+    },
+    {
+      "id": "254",
+      "title": "Herança e Polimorfismo com C#",
+      "url": "https://hermes.dio.me/certificates/cover/197351D8.jpg"
+    },
+    {
+      "id": "255",
+      "title": "Introdução, Abstração e Encapsulamento com C#",
+      "url": "https://hermes.dio.me/certificates/cover/775253DA.jpg"
+    },
+    {
+      "id": "256",
+      "title": "Construindo um Sistema para um Estacionamento com C#",
+      "url": "https://hermes.dio.me/certificates/cover/98CB00CF.jpg"
+    },
+    {
+      "id": "257",
+      "title": "Tipos Especiais no C#",
+      "url": "https://hermes.dio.me/certificates/cover/CA609A49.jpg"
+    },
+    {
+      "id": "258",
+      "title": "Québec Java Digital | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/25EB45D1.jpg"
+    },
+    {
+      "id": "259",
+      "title": "Nuget, Serializar e Atributos no C#",
+      "url": "https://hermes.dio.me/certificates/cover/C8AD0263.jpg"
+    },
+    {
+      "id": "260",
+      "title": "Docker Compose",
+      "url": "https://hermes.dio.me/certificates/cover/A555B665.jpg"
+    },
+    {
+      "id": "261",
+      "title": "Definição e Criação de um Docker File",
+      "url": "https://hermes.dio.me/certificates/cover/1A648C8B.jpg"
+    },
+    {
+      "id": "262",
+      "title": "Processamento, Logs e Rede com Docker",
+      "url": "https://hermes.dio.me/certificates/cover/960E1B25.jpg"
+    },
+    {
+      "id": "263",
+      "title": "Armazenamento de Dados com Docker",
+      "url": "https://hermes.dio.me/certificates/cover/BABAE072.jpg"
+    },
+    {
+      "id": "264",
+      "title": "Primeiros Passos com o Docker",
+      "url": "https://hermes.dio.me/certificates/cover/2FE2FDCE.jpg"
+    },
+    {
+      "id": "265",
+      "title": "Conhecendo e Instalando o Docker",
+      "url": "https://hermes.dio.me/certificates/cover/00381386.jpg"
+    },
+    {
+      "id": "266",
+      "title": "Tuplas, Operador Ternário e Desconstrução de um Objeto com C#",
+      "url": "https://hermes.dio.me/certificates/cover/6F8DFB83.jpg"
+    },
+    {
+      "id": "267",
+      "title": "Exceções e Coleções com C#",
+      "url": "https://hermes.dio.me/certificates/cover/79F788EE.jpg"
+    },
+    {
+      "id": "268",
+      "title": "Manipulando Valores com C#",
+      "url": "https://hermes.dio.me/certificates/cover/89E194F5.jpg"
+    },
+    {
+      "id": "269",
+      "title": "Database Experience",
+      "url": "https://hermes.dio.me/certificates/cover/0638D7E3.jpg"
+    },
+    {
+      "id": "270",
+      "title": "Modelo Relacional e Mapeamento Relacional com Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/0174550E.jpg"
+    },
+    {
+      "id": "271",
+      "title": "Modelo Relacionamento de Entidade Aprimorado com Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/5EF781BF.jpg"
+    },
+    {
+      "id": "272",
+      "title": "Ambiente de Desenvolvimento e Primeiros Passos com Python",
+      "url": "https://hermes.dio.me/certificates/cover/29579336.jpg"
+    },
+    {
+      "id": "273",
+      "title": "Como Entregar seu Desafio de Projeto",
+      "url": "https://hermes.dio.me/certificates/cover/A0ECEBAE.jpg"
+    },
+    {
+      "id": "274",
+      "title": "Propriedades, Métodos e Construtores com C#",
+      "url": "https://hermes.dio.me/certificates/cover/02567579.jpg"
+    },
+    {
+      "id": "275",
+      "title": "Comentários e Boas Práticas em C#",
+      "url": "https://hermes.dio.me/certificates/cover/7BD2C955.jpg"
+    },
+    {
+      "id": "276",
+      "title": "Array e Listas em C#",
+      "url": "https://hermes.dio.me/certificates/cover/9B099946.jpg"
+    },
+    {
+      "id": "277",
+      "title": "Conhecendo a Organização de um Programa C#",
+      "url": "https://hermes.dio.me/certificates/cover/576047C9.jpg"
+    },
+    {
+      "id": "278",
+      "title": "Conhecendo as Estruturas de Repetição em C#",
+      "url": "https://hermes.dio.me/certificates/cover/EE3EC6C2.jpg"
+    },
+    {
+      "id": "279",
+      "title": "Operadores Aritméticos em C#",
+      "url": "https://hermes.dio.me/certificates/cover/8D13C61E.jpg"
+    },
+    {
+      "id": "280",
+      "title": "Sintaxe e Tipos de Dados em C#",
+      "url": "https://hermes.dio.me/certificates/cover/71F1A174.jpg"
+    },
+    {
+      "id": "281",
+      "title": "Tipos de Operadores em C#",
+      "url": "https://hermes.dio.me/certificates/cover/1956A288.jpg"
+    },
+    {
+      "id": "282",
+      "title": "Pottencial .NET Developer | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/14E5EDE9.jpg"
+    },
+    {
+      "id": "283",
+      "title": "Agrupando Registros e Tabelas com Join Statement",
+      "url": "https://hermes.dio.me/certificates/cover/B3D1D948.jpg"
+    },
+    {
+      "id": "284",
+      "title": "Construa um Projeto Lógico de Banco de Dados do Zero",
+      "url": "https://hermes.dio.me/certificates/cover/7E9C3053.jpg"
+    },
+    {
+      "id": "285",
+      "title": "Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE",
+      "url": "https://hermes.dio.me/certificates/cover/288263C4.jpg"
+    },
+    {
+      "id": "286",
+      "title": "Construindo um Esquema Conceitual para Banco De dados",
+      "url": "https://hermes.dio.me/certificates/cover/70BA7377.jpg"
+    },
+    {
+      "id": "287",
+      "title": "Construindo seu Primeiro Projeto Lógico de Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/0219D969.jpg"
+    },
+    {
+      "id": "288",
+      "title": "Criando Queries com Funções e Cláusulas de Agrupamentos",
+      "url": "https://hermes.dio.me/certificates/cover/6250AF40.jpg"
+    },
+    {
+      "id": "289",
+      "title": "Fundamentos de Modelagem e Projeto de Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/214C6F4D.jpg"
+    },
+    {
+      "id": "290",
+      "title": "Arquitetura de Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "291",
+      "title": "Primeiros Passos com SQL",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "292",
+      "title": "Modelo de Entidade Relacionamento com Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "293",
+      "title": "Stack, Heap e Garbage Collector no C#",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "294",
+      "title": "SQL SERVER - Constraints, Funções e Procedures",
+      "url": "https://hermes.dio.me/certificates/cover/3F56479A.jpg"
+    },
+    {
+      "id": "295",
+      "title": "SQL SERVER - Manipulando Dados",
+      "url": "https://hermes.dio.me/certificates/cover/3D1E33E7.jpg"
+    },
+    {
+      "id": "296",
+      "title": "SQL SERVER - Dominando Tabelas e Tipos de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/C3A38440.jpg"
+    },
+    {
+      "id": "297",
+      "title": "Introdução Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/49F43CCB.jpg"
+    },
+    {
+      "id": "298",
+      "title": "Modelagem de Dados para Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/DD69DE23.jpg"
+    },
+    {
+      "id": "299",
+      "title": "Construindo um Sistema de Hospedagem de um Hotel no C#",
+      "url": "https://hermes.dio.me/certificates/cover/2C9CAB7F.jpg"
+    },
+    {
+      "id": "300",
+      "title": "Introdução as IDEs e Configuração de Ambiente .NET",
+      "url": "https://hermes.dio.me/certificates/cover/C0C6D5D5.jpg"
+    },
+    {
+      "id": "301",
+      "title": "Introdução ao .NET",
+      "url": "https://hermes.dio.me/certificates/cover/B2173562.jpg"
+    },
+    {
+      "id": "302",
+      "title": "Sistemas de Gerenciamento de Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/A99D4BA3.jpg"
+    },
+    {
+      "id": "303",
+      "title": "Explorando Queries com SQL",
+      "url": "https://hermes.dio.me/certificates/cover/745B046D.jpg"
+    },
+    {
+      "id": "304",
+      "title": "Introdução a Banco de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/26759387.jpg"
+    },
+    {
+      "id": "305",
+      "title": "O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados",
+      "url": "https://hermes.dio.me/certificates/cover/93D2D145.jpg"
+    },
+    {
+      "id": "306",
+      "title": "Database Experience | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/5C231C76.jpg"
+    },
+    {
+      "id": "307",
+      "title": "Spring Framework Experience",
+      "url": "https://hermes.dio.me/certificates/cover/B0040968.jpg"
+    },
+    {
+      "id": "308",
+      "title": "Domine o Estilo Arquitetural REST com o Spring Web",
+      "url": "https://hermes.dio.me/certificates/cover/5BCF221B.jpg"
+    },
+    {
+      "id": "309",
+      "title": "Realizando Deploy na Nuvem de um Conjunto de API’s Desenvolvida em Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/E5BF8140.jpg"
+    },
+    {
+      "id": "310",
+      "title": "Gerenciamento de Dependências e Build em Java com Maven",
+      "url": "https://hermes.dio.me/certificates/cover/5D120DC9.jpg"
+    },
+    {
+      "id": "311",
+      "title": "Impulso Javascript Evolution",
+      "url": "https://hermes.dio.me/certificates/cover/9FED3ED1.jpg"
+    },
+    {
+      "id": "312",
+      "title": "Criando uma API REST com Node.js e TypeORM",
+      "url": "https://hermes.dio.me/certificates/cover/F35D311D.jpg"
+    },
+    {
+      "id": "313",
+      "title": "Fundamentos de Node.js e Jest",
+      "url": "https://hermes.dio.me/certificates/cover/0F3093B8.jpg"
+    },
+    {
+      "id": "314",
+      "title": "Pirâmide de Testes na Prática Explorando Jest e TDD",
+      "url": "https://hermes.dio.me/certificates/cover/70645572.jpg"
+    },
+    {
+      "id": "315",
+      "title": "Linux Experience",
+      "url": "https://hermes.dio.me/certificates/cover/2A57BDDD.jpg"
+    },
+    {
+      "id": "316",
+      "title": "Linux Experience | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/BBFCE65A.jpg"
+    },
+    {
+      "id": "317",
+      "title": "Introdução ao Desenvolvimento Moderno de Software",
+      "url": "https://hermes.dio.me/certificates/cover/4BBFBA86.jpg"
+    },
+    {
+      "id": "318",
+      "title": "Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões",
+      "url": "https://hermes.dio.me/certificates/cover/05192CAA.jpg"
+    },
+    {
+      "id": "319",
+      "title": "Infraestrutura como Código - Script de Provisionamento de um Servidor Web (Apache)",
+      "url": "https://hermes.dio.me/certificates/cover/DB17CF2A.jpg"
+    },
+    {
+      "id": "320",
+      "title": "Docker: Utilização Prática no Cenário de Microsserviços",
+      "url": "https://hermes.dio.me/certificates/cover/9DB2AFCB.jpg"
+    },
+    {
+      "id": "321",
+      "title": "Servidor de Banco de Dados com Linux",
+      "url": "https://hermes.dio.me/certificates/cover/56971F9D.jpg"
+    },
+    {
+      "id": "322",
+      "title": "Copiando Arquivos e Manipulando Processos",
+      "url": "https://hermes.dio.me/certificates/cover/D631AF8C.jpg"
+    },
+    {
+      "id": "323",
+      "title": "Gerenciamento de Discos Linux",
+      "url": "https://hermes.dio.me/certificates/cover/6877C4AD.jpg"
+    },
+    {
+      "id": "324",
+      "title": "Gerenciamento de Pacotes Linux",
+      "url": "https://hermes.dio.me/certificates/cover/C39ED68C.jpg"
+    },
+    {
+      "id": "325",
+      "title": "Gerenciando Usuários no Linux",
+      "url": "https://hermes.dio.me/certificates/cover/FC07DA33.jpg"
+    },
+    {
+      "id": "326",
+      "title": "Criando um Servidor Web com Linux",
+      "url": "https://hermes.dio.me/certificates/cover/947C580E.jpg"
+    },
+    {
+      "id": "327",
+      "title": "Servidores de Arquivos com Linux",
+      "url": "https://hermes.dio.me/certificates/cover/D852CE0B.jpg"
+    },
+    {
+      "id": "328",
+      "title": "Manipulando Arquivos no Linux",
+      "url": "https://hermes.dio.me/certificates/cover/A33920F4.jpg"
+    },
+    {
+      "id": "329",
+      "title": "Acesso Remoto a Máquinas Linux",
+      "url": "https://hermes.dio.me/certificates/cover/0C6DDA0D.jpg"
+    },
+    {
+      "id": "330",
+      "title": "Instalando o Linux",
+      "url": "https://hermes.dio.me/certificates/cover/80D61105.jpg"
+    },
+    {
+      "id": "331",
+      "title": "Introdução ao Sistema Operacional Linux",
+      "url": "https://hermes.dio.me/certificates/cover/2A81239B.jpg"
+    },
+    {
+      "id": "332",
+      "title": "Spring Framework Experience | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/6FBB3F56.jpg"
+    },
+    {
+      "id": "333",
+      "title": "Mentoria #1: Impulso Javascript Evolution | Aula Inaugural",
+      "url": "https://hermes.dio.me/certificates/cover/902B9B61.jpg"
+    },
+    {
+      "id": "334",
+      "title": "Santander Bootcamp Fullstack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/13213352.jpg"
+    },
+    {
+      "id": "335",
+      "title": "Aula Inaugural - Santander Bootcamp Fullstack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/9ED0AA35.jpg"
+    },
+    {
+      "id": "336",
+      "title": "Geração Tech Unimed-BH | Fullstack",
+      "url": "https://hermes.dio.me/certificates/cover/BF5E08FA.jpg"
+    },
+    {
+      "id": "337",
+      "title": "Introdução a Clean Code e SOLID com .NET e C#",
+      "url": "https://hermes.dio.me/certificates/cover/D87E4774.jpg"
+    },
+    {
+      "id": "338",
+      "title": "Instalando e Preparando o Ambiente Angular",
+      "url": "https://hermes.dio.me/certificates/cover/D41AFA22.jpg"
+    },
+    {
+      "id": "339",
+      "title": "TQI Fullstack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/02AE2FC6.jpg"
+    },
+    {
+      "id": "340",
+      "title": "Adicionando Segurança a uma API REST com Spring Security",
+      "url": "https://hermes.dio.me/certificates/cover/FDBCC8AA.jpg"
+    },
+    {
+      "id": "341",
+      "title": "Desenvolvendo um Jogo da Memória",
+      "url": "https://hermes.dio.me/certificates/cover/96DAB607.jpg"
+    },
+    {
+      "id": "342",
+      "title": "Bem-vinda ao Tech Woman Summit Avanade .NET",
+      "url": "https://hermes.dio.me/certificates/cover/F04950E5.jpg"
+    },
+    {
+      "id": "343",
+      "title": "Módulo III - Conhecendo a Linguagem de Programação JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/1E6013EB.jpg"
+    },
+    {
+      "id": "344",
+      "title": "Módulo II - HTML/CSS3/JS",
+      "url": "https://hermes.dio.me/certificates/cover/D557722C.jpg"
+    },
+    {
+      "id": "345",
+      "title": "Módulo III - Dominando a Linguagem de Programação JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/D780B2A1.jpg"
+    },
+    {
+      "id": "346",
+      "title": "Introdução Prática ao TypeScript",
+      "url": "https://hermes.dio.me/certificates/cover/295BD1C1.jpg"
+    },
+    {
+      "id": "347",
+      "title": "Aula Inaugural - Geração Tech Unimed-BH | Fullstack",
+      "url": "https://hermes.dio.me/certificates/cover/E60CDD55.jpg"
+    },
+    {
+      "id": "348",
+      "title": "Boas-vindas ao Bootcamp: Geração Tech Unimed BH | Fullstack",
+      "url": "https://hermes.dio.me/certificates/cover/DDAD3EF7.jpg"
+    },
+    {
+      "id": "349",
+      "title": "Conheça as Oportunidades da DIO",
+      "url": "https://hermes.dio.me/certificates/cover/00DFB071.jpg"
+    },
+    {
+      "id": "350",
+      "title": "Metodologias Ágeis e Ciclo de Desenvolvimento de Software",
+      "url": "https://hermes.dio.me/certificates/cover/C9846D27.jpg"
+    },
+    {
+      "id": "351",
+      "title": "GFT Start #5 .NET",
+      "url": "https://hermes.dio.me/certificates/cover/7F997C94.jpg"
+    },
+    {
+      "id": "352",
+      "title": "GFT Start #5 Java",
+      "url": "https://hermes.dio.me/certificates/cover/4B617559.jpg"
+    },
+    {
+      "id": "353",
+      "title": "Construindo um App usando Sensor de Movimento com React Native",
+      "url": "https://hermes.dio.me/certificates/cover/7D994556.jpg"
+    },
+    {
+      "id": "354",
+      "title": "Introdução ao React Native",
+      "url": "https://hermes.dio.me/certificates/cover/BD006280.jpg"
+    },
+    {
+      "id": "355",
+      "title": "JPA com Hibernate",
+      "url": "https://hermes.dio.me/certificates/cover/134D7790.jpg"
+    },
+    {
+      "id": "356",
+      "title": "JPA com Hibernate",
+      "url": "https://hermes.dio.me/certificates/cover/A3B942F0.jpg"
+    },
+    {
+      "id": "357",
+      "title": "Desenvolvendo um Menu Hamburguer e Morphing Menu com CSS Transitions",
+      "url": "https://hermes.dio.me/certificates/cover/FB2AD43D.jpg"
+    },
+    {
+      "id": "358",
+      "title": "Fundamentos de Qualidade de Software",
+      "url": "https://hermes.dio.me/certificates/cover/10D3D4A5.jpg"
+    },
+    {
+      "id": "359",
+      "title": "Boas-vindas ao TQI Fullstack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/7CAB889A.jpg"
+    },
+    {
+      "id": "360",
+      "title": "Desenvolvendo sua aplicação com C# usando DDD",
+      "url": "https://hermes.dio.me/certificates/cover/D5C9AE76.jpg"
+    },
+    {
+      "id": "361",
+      "title": "GFT Start Woman Java",
+      "url": "https://hermes.dio.me/certificates/cover/F46F96B1.jpg"
+    },
+    {
+      "id": "362",
+      "title": "Principais Protocolos de Comunicação da Internet",
+      "url": "https://hermes.dio.me/certificates/cover/2EC4856F.jpg"
+    },
+    {
+      "id": "363",
+      "title": "Seja Protagonista Neste Bootcamp",
+      "url": "https://hermes.dio.me/certificates/cover/4DEB3781.jpg"
+    },
+    {
+      "id": "364",
+      "title": "Introdução à Programação e Pensamento Computacional",
+      "url": "https://hermes.dio.me/certificates/cover/C7DE9498.jpg"
+    },
+    {
+      "id": "365",
+      "title": "Seja Protagonista Neste Bootcamp",
+      "url": "https://hermes.dio.me/certificates/cover/5744C0EA.jpg"
+    },
+    {
+      "id": "366",
+      "title": "Spread Fullstack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/20963D31.jpg"
+    },
+    {
+      "id": "367",
+      "title": "Desenvolvimento back-end com Node.js",
+      "url": "https://hermes.dio.me/certificates/cover/A10EBBDC.jpg"
+    },
+    {
+      "id": "368",
+      "title": "Aprenda a Criar um Sistema de Estacionamento Usando TypeScript",
+      "url": "https://hermes.dio.me/certificates/cover/4FE37BAB.jpg"
+    },
+    {
+      "id": "369",
+      "title": "GFT Start Woman Java",
+      "url": "https://hermes.dio.me/certificates/cover/FFBB1468.jpg"
+    },
+    {
+      "id": "370",
+      "title": "Carrefour Web Developer",
+      "url": "https://hermes.dio.me/certificates/cover/57ACEED4.jpg"
+    },
+    {
+      "id": "371",
+      "title": "Órbi Web Games Developer",
+      "url": "https://hermes.dio.me/certificates/cover/D914666E.jpg"
+    },
+    {
+      "id": "372",
+      "title": "Criando seu Próprio Jogo da Velha com HTML e Javascript",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "373",
+      "title": "Criando seu Jogo no Estilo Space Shooter",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "374",
+      "title": "Cognizant Cloud Data Engineer #2",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "375",
+      "title": "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "376",
+      "title": "Processando grandes conjuntos de dados de forma paralela e distribuída com Spark",
+      "url": "https://hermes.dio.me/certificates/cover/EAB058B0.jpg"
+    },
+    {
+      "id": "377",
+      "title": "Criando pipelines de dados eficientes com Spark e Python",
+      "url": "https://hermes.dio.me/certificates/cover/66FDE1B0.jpg"
+    },
+    {
+      "id": "378",
+      "title": "Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop",
+      "url": "https://hermes.dio.me/certificates/cover/DE8DFED4.jpg"
+    },
+    {
+      "id": "379",
+      "title": "Introdução a Engenharia de Dados na AWS",
+      "url": "https://hermes.dio.me/certificates/cover/4764186D.jpg"
+    },
+    {
+      "id": "380",
+      "title": "Monitoramento de clusters Hadoop de alto nível com HDFS e YARN",
+      "url": "https://hermes.dio.me/certificates/cover/941BD24C.jpg"
+    },
+    {
+      "id": "381",
+      "title": "Explorando o poder do NoSQL com Cassandra e HBase",
+      "url": "https://hermes.dio.me/certificates/cover/0E5D0D28.jpg"
+    },
+    {
+      "id": "382",
+      "title": "MySql - Como Modelar um Banco de Controle de Séries Assistidas",
+      "url": "https://hermes.dio.me/certificates/cover/4DE7CB0F.jpg"
+    },
+    {
+      "id": "383",
+      "title": "MySQL - Explorando Relacionamentos com MySQL Workbench",
+      "url": "https://hermes.dio.me/certificates/cover/22E788C7.jpg"
+    },
+    {
+      "id": "384",
+      "title": "Fundamentos de ETL com Python",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "385",
+      "title": "Segurança da informação com Python",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "386",
+      "title": "Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "387",
+      "title": "Descomplicando a Criação de Pacotes de Processamento de Imagens em Python",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "388",
+      "title": "Desenvolvendo uma Progressive Web Application com React para Mapear os Dados do COVID19 Pelo Mundo",
+      "url": "https://hermes.dio.me/certificates/cover/D6E40A12.jpg"
+    },
+    {
+      "id": "389",
+      "title": "Impulso Fullstack Web Developer",
+      "url": "https://hermes.dio.me/certificates/cover/8DB268F3.jpg"
+    },
+    {
+      "id": "390",
+      "title": "Introdução a Redux com ReactJS",
+      "url": "https://hermes.dio.me/certificates/cover/4C045BD6.jpg"
+    },
+    {
+      "id": "391",
+      "title": "Conhecendo Spring Data JPA na prática com Java",
+      "url": "https://hermes.dio.me/certificates/cover/C0C81AFF.jpg"
+    },
+    {
+      "id": "392",
+      "title": "Conceitos de responsividade e experiência do usuário",
+      "url": "https://hermes.dio.me/certificates/cover/FC4774DB.jpg"
+    },
+    {
+      "id": "393",
+      "title": "Philips Fullstack Developer | You Are You",
+      "url": "https://hermes.dio.me/certificates/cover/F36987B0.jpg"
+    },
+    {
+      "id": "394",
+      "title": "Introdução a Serviços Assíncronos no Angular",
+      "url": "https://hermes.dio.me/certificates/cover/4A49C54F.jpg"
+    },
+    {
+      "id": "395",
+      "title": "Introdução a Serviços Assíncronos no Angular",
+      "url": "https://hermes.dio.me/certificates/cover/21C005C4.jpg"
+    },
+    {
+      "id": "396",
+      "title": "O Poder do Data Binding no Angular",
+      "url": "https://hermes.dio.me/certificates/cover/0D12B20D.jpg"
+    },
+    {
+      "id": "397",
+      "title": "Posicionando elementos com Flexbox em CSS",
+      "url": "https://hermes.dio.me/certificates/cover/B2595B0C.jpg"
+    },
+    {
+      "id": "398",
+      "title": "Criação de Pipes com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/A2F49D84.jpg"
+    },
+    {
+      "id": "399",
+      "title": "Como criar um front-end de um e-commerce utilizando Angular",
+      "url": "https://hermes.dio.me/certificates/cover/8593BBF6.jpg"
+    },
+    {
+      "id": "400",
+      "title": "Imersão no Spring Framework com Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/94D25EF5.jpg"
+    },
+    {
+      "id": "401",
+      "title": "Trabalhando com Componentes em Angular",
+      "url": "https://hermes.dio.me/certificates/cover/9D4379D7.jpg"
+    },
+    {
+      "id": "402",
+      "title": "Introdução ao Spring Framework",
+      "url": "https://hermes.dio.me/certificates/cover/E3681F08.jpg"
+    },
+    {
+      "id": "403",
+      "title": "Implementando Serviços e Injeção de Dependências com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/883BA214.jpg"
+    },
+    {
+      "id": "404",
+      "title": "Trabalhando com Páginas SPA com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/DDFD92CE.jpg"
+    },
+    {
+      "id": "405",
+      "title": "Trabalhando com Páginas SPA com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/800F14F8.jpg"
+    },
+    {
+      "id": "406",
+      "title": "Explorando Diretivas com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/CDD0E61B.jpg"
+    },
+    {
+      "id": "407",
+      "title": "Trabalhando com Módulos em JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/5E39C4BB.jpg"
+    },
+    {
+      "id": "408",
+      "title": "Sportheca Mobile Developer",
+      "url": "https://hermes.dio.me/certificates/cover/65255FA8.jpg"
+    },
+    {
+      "id": "409",
+      "title": "Princípios de Pensamento Computacional com Python",
+      "url": "https://hermes.dio.me/certificates/cover/39EC8466.jpg"
+    },
+    {
+      "id": "410",
+      "title": "Componentes, Layouts e UI/UX Em Apps Android",
+      "url": "https://hermes.dio.me/certificates/cover/ECB460A7.jpg"
+    },
+    {
+      "id": "411",
+      "title": "Java e Kotlin Juntos!? Construindo Apps Android",
+      "url": "https://hermes.dio.me/certificates/cover/3653A4C4.jpg"
+    },
+    {
+      "id": "412",
+      "title": "Explorando o Firebase Para Apps Android Resilientes",
+      "url": "https://hermes.dio.me/certificates/cover/4D139D71.jpg"
+    },
+    {
+      "id": "413",
+      "title": "Estruturas de Dados em Java: Árvores",
+      "url": "https://hermes.dio.me/certificates/cover/F32598A8.jpg"
+    },
+    {
+      "id": "414",
+      "title": "Estruturas de Dados em Java: Principais Implementações",
+      "url": "https://hermes.dio.me/certificates/cover/701B15B3.jpg"
+    },
+    {
+      "id": "415",
+      "title": "Estruturas de Dados em Java: Pilhas e Filas",
+      "url": "https://hermes.dio.me/certificates/cover/69440B8B.jpg"
+    },
+    {
+      "id": "416",
+      "title": "Estruturas de Dados em Java: Pilhas e Filas",
+      "url": "https://hermes.dio.me/certificates/cover/7AB047D2.jpg"
+    },
+    {
+      "id": "417",
+      "title": "MySQL - Consultas com Join",
+      "url": "https://hermes.dio.me/certificates/cover/BD347725.jpg"
+    },
+    {
+      "id": "418",
+      "title": "Linux: Controle de Usuários e (Des)Compactação de Arquivos",
+      "url": "https://hermes.dio.me/certificates/cover/36CF2A62.jpg"
+    },
+    {
+      "id": "419",
+      "title": "Estruturas de Dados em Java: Listas",
+      "url": "https://hermes.dio.me/certificates/cover/BC298C7F.jpg"
+    },
+    {
+      "id": "420",
+      "title": "Criando um App de Cartão de Visitas em Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/CA98F198.jpg"
+    },
+    {
+      "id": "421",
+      "title": "Criando um App para Apresentar seu Portfólio do GitHub",
+      "url": "https://hermes.dio.me/certificates/cover/B2194C0D.jpg"
+    },
+    {
+      "id": "422",
+      "title": "Eduzz Fullstack Developer #3",
+      "url": "https://hermes.dio.me/certificates/cover/D8432D75.jpg"
+    },
+    {
+      "id": "423",
+      "title": "Criando aplicações móveis multiplataforma com React Native",
+      "url": "https://hermes.dio.me/certificates/cover/3A95B197.jpg"
+    },
+    {
+      "id": "424",
+      "title": "Práticas avançadas em projetos com ReactJS",
+      "url": "https://hermes.dio.me/certificates/cover/90B9CCCE.jpg"
+    },
+    {
+      "id": "425",
+      "title": "Estruturas de Dados em Java: Introdução",
+      "url": "https://hermes.dio.me/certificates/cover/A159404C.jpg"
+    },
+    {
+      "id": "426",
+      "title": "Estruturas de Dados em Java: Introdução",
+      "url": "https://hermes.dio.me/certificates/cover/DDA5C4B1.jpg"
+    },
+    {
+      "id": "427",
+      "title": "Introdução ao MongoDB e Bancos de Dados NoSQL",
+      "url": "https://hermes.dio.me/certificates/cover/D7FDB738.jpg"
+    },
+    {
+      "id": "428",
+      "title": "Criando um Front-end Totalmente Componentizado na Prática com ReactJS",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "429",
+      "title": "Construindo Encurtador de URL",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "430",
+      "title": "Introdução ao Node.js com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "431",
+      "title": "MySQL - Trabalhando com suas Primeiras Tabelas",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "432",
+      "title": "Banco Carrefour Woman Developer",
+      "url": "https://hermes.dio.me/certificates/cover/06881F59.jpg"
+    },
+    {
+      "id": "433",
+      "title": "Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces",
+      "url": "https://hermes.dio.me/certificates/cover/D3E3A3A8.jpg"
+    },
+    {
+      "id": "434",
+      "title": "Introdução Prática a Computação em Nuvem Usando AWS",
+      "url": "https://hermes.dio.me/certificates/cover/D48AE372.jpg"
+    },
+    {
+      "id": "435",
+      "title": "Introdução Prática a Computação em Nuvem Usando AWS",
+      "url": "https://hermes.dio.me/certificates/cover/3D3F0493.jpg"
+    },
+    {
+      "id": "436",
+      "title": "Primeiros passos para desenvolvimento web",
+      "url": "https://hermes.dio.me/certificates/cover/45FC6174.jpg"
+    },
+    {
+      "id": "437",
+      "title": "Criando o Front-end com ReactJS",
+      "url": "https://hermes.dio.me/certificates/cover/E6B19558.jpg"
+    },
+    {
+      "id": "438",
+      "title": "GFT Quality Assurance #1",
+      "url": "https://hermes.dio.me/certificates/cover/4A794E7C.jpg"
+    },
+    {
+      "id": "439",
+      "title": "Introdução ao Mercado de Qualidade de Software",
+      "url": "https://hermes.dio.me/certificates/cover/73C2E682.jpg"
+    },
+    {
+      "id": "440",
+      "title": "Introdução a Testes de Software",
+      "url": "https://hermes.dio.me/certificates/cover/D20642E0.jpg"
+    },
+    {
+      "id": "441",
+      "title": "NTT DATA Android Developer",
+      "url": "https://hermes.dio.me/certificates/cover/A529113B.jpg"
+    },
+    {
+      "id": "442",
+      "title": "Arquitetura MVVM na prática",
+      "url": "https://hermes.dio.me/certificates/cover/3E3FF858.jpg"
+    },
+    {
+      "id": "443",
+      "title": "Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#",
+      "url": "https://hermes.dio.me/certificates/cover/A840E35A.jpg"
+    },
+    {
+      "id": "444",
+      "title": "GFT Start #4 .NET",
+      "url": "https://hermes.dio.me/certificates/cover/2FC012CE.jpg"
+    },
+    {
+      "id": "445",
+      "title": "Trabalhando com Arquivos e Streams em C#",
+      "url": "https://hermes.dio.me/certificates/cover/C6552009.jpg"
+    },
+    {
+      "id": "446",
+      "title": "Spread Java Developer",
+      "url": "https://hermes.dio.me/certificates/cover/203CC324.jpg"
+    },
+    {
+      "id": "447",
+      "title": "Testes Unitários Com JUnit",
+      "url": "https://hermes.dio.me/certificates/cover/196B86E3.jpg"
+    },
+    {
+      "id": "448",
+      "title": "GFT Quality Assurance #1",
+      "url": "https://hermes.dio.me/certificates/cover/1439D900.jpg"
+    },
+    {
+      "id": "449",
+      "title": "Desmistificando o Android Studio na Prática",
+      "url": "https://hermes.dio.me/certificates/cover/291AC434.jpg"
+    },
+    {
+      "id": "450",
+      "title": "Desmistificando o Android Studio na Prática",
+      "url": "https://hermes.dio.me/certificates/cover/35F5DFE5.jpg"
+    },
+    {
+      "id": "451",
+      "title": "Estrutura de dados em Java",
+      "url": "https://hermes.dio.me/certificates/cover/B1CD5192.jpg"
+    },
+    {
+      "id": "452",
+      "title": "Construindo o seu Primeiro Jogo de Naves",
+      "url": "https://hermes.dio.me/certificates/cover/CF560D5F.jpg"
+    },
+    {
+      "id": "453",
+      "title": "Criando a Interface do iFood com React Native",
+      "url": "https://hermes.dio.me/certificates/cover/E6C501E5.jpg"
+    },
+    {
+      "id": "454",
+      "title": "LocalizaLabs .NET Developer #2",
+      "url": "https://hermes.dio.me/certificates/cover/469D3C5C.jpg"
+    },
+    {
+      "id": "455",
+      "title": "Continuous Integration (CI) e Continuous Delivery(CD) na prática com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/78EF2DE6.jpg"
+    },
+    {
+      "id": "456",
+      "title": "Introdução a Engenharia de Dados na Azure",
+      "url": "https://hermes.dio.me/certificates/cover/4C4939E2.jpg"
+    },
+    {
+      "id": "457",
+      "title": "MRV Fullstack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/BF37ADB8.jpg"
+    },
+    {
+      "id": "458",
+      "title": "Trabalhando com Collections Java",
+      "url": "https://hermes.dio.me/certificates/cover/83CC5100.jpg"
+    },
+    {
+      "id": "459",
+      "title": "Abstraindo um Bootcamp Usando Orientação a Objetos em Java",
+      "url": "https://hermes.dio.me/certificates/cover/709D05C2.jpg"
+    },
+    {
+      "id": "460",
+      "title": "GFT Start #4 Java",
+      "url": "https://hermes.dio.me/certificates/cover/8346E305.jpg"
+    },
+    {
+      "id": "461",
+      "title": "Trabalhando com Collections Java",
+      "url": "https://hermes.dio.me/certificates/cover/9BEFFA86.jpg"
+    },
+    {
+      "id": "462",
+      "title": "Tratamento de Exceções em Java",
+      "url": "https://hermes.dio.me/certificates/cover/3E1206AE.jpg"
+    },
+    {
+      "id": "463",
+      "title": "Debugging Java",
+      "url": "https://hermes.dio.me/certificates/cover/0347F349.jpg"
+    },
+    {
+      "id": "464",
+      "title": "Introdução a Qualidade de Software",
+      "url": "https://hermes.dio.me/certificates/cover/C22C565C.jpg"
+    },
+    {
+      "id": "465",
+      "title": "Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework",
+      "url": "https://hermes.dio.me/certificates/cover/34A1C688.jpg"
+    },
+    {
+      "id": "466",
+      "title": "Inter Frontend Developer",
+      "url": "https://hermes.dio.me/certificates/cover/FAF24E8B.jpg"
+    },
+    {
+      "id": "467",
+      "title": "Microsserviços e Integrações com Node.js",
+      "url": "https://hermes.dio.me/certificates/cover/C5F53BFE.jpg"
+    },
+    {
+      "id": "468",
+      "title": "Node.js com Bancos de Dados Relacionais (SQL)",
+      "url": "https://hermes.dio.me/certificates/cover/3B14BB29.jpg"
+    },
+    {
+      "id": "469",
+      "title": "Integrando um Backend em Node.js com um Frontend em React para um E-commerce",
+      "url": "https://hermes.dio.me/certificates/cover/F30D9914.jpg"
+    },
+    {
+      "id": "470",
+      "title": "Introdução aos React Hooks",
+      "url": "https://hermes.dio.me/certificates/cover/9BAF1819.jpg"
+    },
+    {
+      "id": "471",
+      "title": "Trabalhando com Componentes em React",
+      "url": "https://hermes.dio.me/certificates/cover/E8EC5DA7.jpg"
+    },
+    {
+      "id": "472",
+      "title": "Aplicando o Estilo Arquitetural REST com Node.js",
+      "url": "https://hermes.dio.me/certificates/cover/4EA3A123.jpg"
+    },
+    {
+      "id": "473",
+      "title": "Desenvolvimento de aplicações para internet com ReactJS",
+      "url": "https://hermes.dio.me/certificates/cover/F4AB5F6E.jpg"
+    },
+    {
+      "id": "474",
+      "title": "Instalando e Configurando seu Ambiente Node.js",
+      "url": "https://hermes.dio.me/certificates/cover/B0E80997.jpg"
+    },
+    {
+      "id": "475",
+      "title": "Programação Orientada a Objetos com Java",
+      "url": "https://hermes.dio.me/certificates/cover/EBDB9F38.jpg"
+    },
+    {
+      "id": "476",
+      "title": "Entendendo Métodos Java",
+      "url": "https://hermes.dio.me/certificates/cover/59B8CF76.jpg"
+    },
+    {
+      "id": "477",
+      "title": "Entendendo Métodos Java",
+      "url": "https://hermes.dio.me/certificates/cover/B8CDCB27.jpg"
+    },
+    {
+      "id": "478",
+      "title": "Desenvolvimento Mobile Nativo Para Android",
+      "url": "https://hermes.dio.me/certificates/cover/9BB4D20D.jpg"
+    },
+    {
+      "id": "479",
+      "title": "Amdocs JAVA Developer",
+      "url": "https://hermes.dio.me/certificates/cover/B71633F9.jpg"
+    },
+    {
+      "id": "480",
+      "title": "Entrada e Saída de Arquivos (I/O) em Java",
+      "url": "https://hermes.dio.me/certificates/cover/FFE74CB4.jpg"
+    },
+    {
+      "id": "481",
+      "title": "Introdução aos Conceitos de API e Clean Architecture",
+      "url": "https://hermes.dio.me/certificates/cover/1DAADD29.jpg"
+    },
+    {
+      "id": "482",
+      "title": "Criando um Banco Digital com Java e Orientação a Objetos",
+      "url": "https://hermes.dio.me/certificates/cover/4518C369.jpg"
+    },
+    {
+      "id": "483",
+      "title": "Trabalhando com Tipos de Referência e Valor em C#",
+      "url": "https://hermes.dio.me/certificates/cover/B94603C5.jpg"
+    },
+    {
+      "id": "484",
+      "title": "Trabalhando com Tipos de Referência e Valor em C#",
+      "url": "https://hermes.dio.me/certificates/cover/C7E74430.jpg"
+    },
+    {
+      "id": "485",
+      "title": "Introdução ao HTTP/HTTPS",
+      "url": "https://hermes.dio.me/certificates/cover/3FE4938B.jpg"
+    },
+    {
+      "id": "486",
+      "title": "Resolvendo Desafios de Código em Java",
+      "url": "https://hermes.dio.me/certificates/cover/309B6703.jpg"
+    },
+    {
+      "id": "487",
+      "title": "Simplificando Projetos Java com o Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/B4E08A96.jpg"
+    },
+    {
+      "id": "488",
+      "title": "Praticando Orientação a Objetos com Java",
+      "url": "https://hermes.dio.me/certificates/cover/A8AC5A31.jpg"
+    },
+    {
+      "id": "489",
+      "title": "Reforçando o Conceito de Laços em Java",
+      "url": "https://hermes.dio.me/certificates/cover/E57C952D.jpg"
+    },
+    {
+      "id": "490",
+      "title": "Reforçando o Conceito de Laços em Java",
+      "url": "https://hermes.dio.me/certificates/cover/B5BCA587.jpg"
+    },
+    {
+      "id": "491",
+      "title": "Controlando o Fluxo de Execução em C#",
+      "url": "https://hermes.dio.me/certificates/cover/1F14F600.jpg"
+    },
+    {
+      "id": "492",
+      "title": "Tratamento de Erros em C# com Exceptions",
+      "url": "https://hermes.dio.me/certificates/cover/63DD2240.jpg"
+    },
+    {
+      "id": "493",
+      "title": "Introdução ao Ecossistema .NET e Documentação",
+      "url": "https://hermes.dio.me/certificates/cover/319ADAA4.jpg"
+    },
+    {
+      "id": "494",
+      "title": "Configuração da arquitetura back-end com .NET Core",
+      "url": "https://hermes.dio.me/certificates/cover/30C3C924.jpg"
+    },
+    {
+      "id": "495",
+      "title": "Configuração e Deploy na nuvem Microsoft Azure Cloud",
+      "url": "https://hermes.dio.me/certificates/cover/3313418D.jpg"
+    },
+    {
+      "id": "496",
+      "title": "Primeiros Passos Para Começar a Programar",
+      "url": "https://hermes.dio.me/certificates/cover/5BC91114.jpg"
+    },
+    {
+      "id": "497",
+      "title": "Estruturas de Repetição e Arrays em Java",
+      "url": "https://hermes.dio.me/certificates/cover/18BF8DAD.jpg"
+    },
+    {
+      "id": "498",
+      "title": "Lógica Condicional e Controle de Fluxos em Java",
+      "url": "https://hermes.dio.me/certificates/cover/FF23D1C6.jpg"
+    },
+    {
+      "id": "499",
+      "title": "Variáveis, Tipos de Dados e Operadores Matemáticos em Java",
+      "url": "https://hermes.dio.me/certificates/cover/3DF45472.jpg"
+    },
+    {
+      "id": "500",
+      "title": "Configurando Ambiente de Desenvolvimento Java no Linux",
+      "url": "https://hermes.dio.me/certificates/cover/1E8B4894.jpg"
+    },
+    {
+      "id": "501",
+      "title": "Introdução ao Ecossistema e Documentação Java",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "502",
+      "title": "Decola Tech 2a edição",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "503",
+      "title": "Introdução a Design Patterns com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "504",
+      "title": "Construtores, Propriedades, Delegates e Eventos em .NET",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "505",
+      "title": "Programando com Orientação a Objeto com C#",
+      "url": "https://hermes.dio.me/certificates/cover/C64A1189.jpg"
+    },
+    {
+      "id": "506",
+      "title": "Fundamentos de Coleções e LINQ com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/EFADBEE8.jpg"
+    },
+    {
+      "id": "507",
+      "title": "Pensamento Computacional",
+      "url": "https://hermes.dio.me/certificates/cover/7B8A2B2B.jpg"
+    },
+    {
+      "id": "508",
+      "title": "Linux: Gerenciamento de Pacotes",
+      "url": "https://hermes.dio.me/certificates/cover/DD7F8E23.jpg"
+    },
+    {
+      "id": "509",
+      "title": "Criando um Aplicativo para Conversão de Moedas e Câmbio",
+      "url": "https://hermes.dio.me/certificates/cover/B6559A26.jpg"
+    },
+    {
+      "id": "510",
+      "title": "Linux: Fundamentos de Redes e Comandos Avançados",
+      "url": "https://hermes.dio.me/certificates/cover/69381D28.jpg"
+    },
+    {
+      "id": "511",
+      "title": "Linux: Diretórios e Comandos Essenciais",
+      "url": "https://hermes.dio.me/certificates/cover/1E87D25E.jpg"
+    },
+    {
+      "id": "512",
+      "title": "Linux: Introdução ao Sistema Operacional e Terminal",
+      "url": "https://hermes.dio.me/certificates/cover/548F675E.jpg"
+    },
+    {
+      "id": "513",
+      "title": "Dominando IDEs Java",
+      "url": "https://hermes.dio.me/certificates/cover/FDE0C04E.jpg"
+    },
+    {
+      "id": "514",
+      "title": "Modelando um banco de dados na prática com SQL SERVER",
+      "url": "https://hermes.dio.me/certificates/cover/50E3431F.jpg"
+    },
+    {
+      "id": "515",
+      "title": "Trabalhando com States &amp; Effects no ReactJs",
+      "url": "https://hermes.dio.me/certificates/cover/7D697214.jpg"
+    },
+    {
+      "id": "516",
+      "title": "Trabalhando com States &amp; Effects no ReactJs",
+      "url": "https://hermes.dio.me/certificates/cover/F1FB2980.jpg"
+    },
+    {
+      "id": "517",
+      "title": "Orientação a Objetos com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/E4C33E56.jpg"
+    },
+    {
+      "id": "518",
+      "title": "SQL Server: Boas práticas em bancos relacionais",
+      "url": "https://hermes.dio.me/certificates/cover/BAB1281A.jpg"
+    },
+    {
+      "id": "519",
+      "title": "Trabalhando com Branches no GitHub",
+      "url": "https://hermes.dio.me/certificates/cover/000FE57C.jpg"
+    },
+    {
+      "id": "520",
+      "title": "Manipulando a D.O.M. com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/917906A4.jpg"
+    },
+    {
+      "id": "521",
+      "title": "Criando o ambiente de desenvolvimento",
+      "url": "https://hermes.dio.me/certificates/cover/3EAD73A9.jpg"
+    },
+    {
+      "id": "522",
+      "title": "Map, Filter e Reduce",
+      "url": "https://hermes.dio.me/certificates/cover/F0C19938.jpg"
+    },
+    {
+      "id": "523",
+      "title": "Map, Filter e Reduce",
+      "url": "https://hermes.dio.me/certificates/cover/A3A5C356.jpg"
+    },
+    {
+      "id": "524",
+      "title": "Fundamentos de JavaScript Assíncrono",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "525",
+      "title": "Projetos ágeis com SCRUM",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "526",
+      "title": "Boas-vindas ao Bootcamp Inter Frontend Developer",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "527",
+      "title": "Debugging e Error Handling com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/344C07B0.jpg"
+    },
+    {
+      "id": "528",
+      "title": "Mapas e Conjuntos com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/C09F903B.jpg"
+    },
+    {
+      "id": "529",
+      "title": "Dominando Funções em JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/E5CBA759.jpg"
+    },
+    {
+      "id": "530",
+      "title": "Variáveis e Tipos com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/B00876B6.jpg"
+    },
+    {
+      "id": "531",
+      "title": "Introdução a APIs e métodos HTTP",
+      "url": "https://hermes.dio.me/certificates/cover/B502CAB6.jpg"
+    },
+    {
+      "id": "532",
+      "title": "Sintaxe e Operadores JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/A7644C8C.jpg"
+    },
+    {
+      "id": "533",
+      "title": "Sintaxe Básica em JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/5EEF34E5.jpg"
+    },
+    {
+      "id": "534",
+      "title": "Instalação e Configuração do Visual Studio Code",
+      "url": "https://hermes.dio.me/certificates/cover/6C07F12E.jpg"
+    },
+    {
+      "id": "535",
+      "title": "IDE Instalação e Configuração (Visual Studio)",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "536",
+      "title": "IDE Instalação e Configuração (Visual Studio)",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "537",
+      "title": "Introdução ao JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "538",
+      "title": "Introdução ao C# e .NET",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "539",
+      "title": "Introdução ao Vue.js",
+      "url": "https://hermes.dio.me/certificates/cover/0A23F8F4.jpg"
+    },
+    {
+      "id": "540",
+      "title": "Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso",
+      "url": "https://hermes.dio.me/certificates/cover/FAE77446.jpg"
+    },
+    {
+      "id": "541",
+      "title": "Introdução ao Junit 5",
+      "url": "https://hermes.dio.me/certificates/cover/5138FB15.jpg"
+    },
+    {
+      "id": "542",
+      "title": "Aceleração Global Dev #12 - Avanade",
+      "url": "https://hermes.dio.me/certificates/cover/2980011D.jpg"
+    },
+    {
+      "id": "543",
+      "title": "Aceleração Global Dev #12 - Avanade",
+      "url": "https://hermes.dio.me/certificates/cover/4527A677.jpg"
+    },
+    {
+      "id": "544",
+      "title": "Instalando o Visual Studio e SDK",
+      "url": "https://hermes.dio.me/certificates/cover/EB7E6C05.jpg"
+    },
+    {
+      "id": "545",
+      "title": "Introdução a microsserviços com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/05FDE392.jpg"
+    },
+    {
+      "id": "546",
+      "title": "Santander Bootcamp | Mobile Developer",
+      "url": "https://hermes.dio.me/certificates/cover/8AA7F121.jpg"
+    },
+    {
+      "id": "547",
+      "title": "SQL SERVER - Criando suas primeiras consultas",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "548",
+      "title": "Criando uma Aplicação de Transferências Bancárias com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "549",
+      "title": "Criando um APP Simples de Cadastro de Séries em .NET",
+      "url": "https://hermes.dio.me/certificates/cover/A"
+    },
+    {
+      "id": "550",
+      "title": "Lógica de programação Essencial",
+      "url": "https://hermes.dio.me/certificates/cover/9693786A.jpg"
+    },
+    {
+      "id": "551",
+      "title": "Criando um App de Lembretes e Tarefas com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/BF4CC34E.jpg"
+    },
+    {
+      "id": "552",
+      "title": "Introdução a orquestração de contêineres com Docker",
+      "url": "https://hermes.dio.me/certificates/cover/29E6B76C.jpg"
+    },
+    {
+      "id": "553",
+      "title": "everis Kotlin Developer",
+      "url": "https://hermes.dio.me/certificates/cover/26C22A42.jpg"
+    },
+    {
+      "id": "554",
+      "title": "everis Kotlin Developer",
+      "url": "https://hermes.dio.me/certificates/cover/747C758E.jpg"
+    },
+    {
+      "id": "555",
+      "title": "Aceleração Global Dev #8 Avanade",
+      "url": "https://hermes.dio.me/certificates/cover/D2279CE1.jpg"
+    },
+    {
+      "id": "556",
+      "title": "Conceitos de Navegação, Aparência e Estilo de Aplicativos Android",
+      "url": "https://hermes.dio.me/certificates/cover/473A39AB.jpg"
+    },
+    {
+      "id": "557",
+      "title": "Desenvolvimento Integrado de Aplicações Android",
+      "url": "https://hermes.dio.me/certificates/cover/DF95AD98.jpg"
+    },
+    {
+      "id": "558",
+      "title": "Trabalhando com Processamento Assíncrono no Android",
+      "url": "https://hermes.dio.me/certificates/cover/76F3A2F1.jpg"
+    },
+    {
+      "id": "559",
+      "title": "Utilizando Recursos Nativos do Android",
+      "url": "https://hermes.dio.me/certificates/cover/2FD3DBFA.jpg"
+    },
+    {
+      "id": "560",
+      "title": "Aplicando TDD e Padrões de Testes no Desenvolvimento de Aplicativos Android",
+      "url": "https://hermes.dio.me/certificates/cover/8F94B59B.jpg"
+    },
+    {
+      "id": "561",
+      "title": "ViewModel e Lifecycle para Melhor Experiência em Aplicativos Android",
+      "url": "https://hermes.dio.me/certificates/cover/F2ECABEC.jpg"
+    },
+    {
+      "id": "562",
+      "title": "Princípios do Desenvolvimento Kotlin com Clean Architecture e MVVM",
+      "url": "https://hermes.dio.me/certificates/cover/282F2C85.jpg"
+    },
+    {
+      "id": "563",
+      "title": "Aplicando Conceitos de Arrays, Coleções e Listas",
+      "url": "https://hermes.dio.me/certificates/cover/B35674EC.jpg"
+    },
+    {
+      "id": "564",
+      "title": "Projetando o Primeiro Aplicativo Android Usando Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/9341F5BF.jpg"
+    },
+    {
+      "id": "565",
+      "title": "Melhores Práticas para Debugging, Tratamento de Erros e Exceções",
+      "url": "https://hermes.dio.me/certificates/cover/681A641D.jpg"
+    },
+    {
+      "id": "566",
+      "title": "Desenvolvimento Integrado de Dados com SQLite no Android",
+      "url": "https://hermes.dio.me/certificates/cover/0EB74A46.jpg"
+    },
+    {
+      "id": "567",
+      "title": "Inter Java Developer",
+      "url": "https://hermes.dio.me/certificates/cover/462E46FE.jpg"
+    },
+    {
+      "id": "568",
+      "title": "Arquitetura de Sistemas Avançado",
+      "url": "https://hermes.dio.me/certificates/cover/707B5270.jpg"
+    },
+    {
+      "id": "569",
+      "title": "Fundamentos de Arquitetura de Sistemas",
+      "url": "https://hermes.dio.me/certificates/cover/00265FDF.jpg"
+    },
+    {
+      "id": "570",
+      "title": "Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL",
+      "url": "https://hermes.dio.me/certificates/cover/A9B29ACA.jpg"
+    },
+    {
+      "id": "571",
+      "title": "Criando seu Gerenciador de Super Heróis da Marvel e da DC em uma API Reativa com Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/7CFD1E35.jpg"
+    },
+    {
+      "id": "572",
+      "title": "Criando uma Solução de E-commerce com Microsserviços em Java",
+      "url": "https://hermes.dio.me/certificates/cover/434E599B.jpg"
+    },
+    {
+      "id": "573",
+      "title": "Rodando sua Aplicação Java no Kubernetes. Do Deploy ao Debug sem Medo!",
+      "url": "https://hermes.dio.me/certificates/cover/11ECCC23.jpg"
+    },
+    {
+      "id": "574",
+      "title": "Criando um Sistema de Orçamento, Utilizando CQRS, Quarkus, Kafka e Deploy no EKS",
+      "url": "https://hermes.dio.me/certificates/cover/7FA7EEB5.jpg"
+    },
+    {
+      "id": "575",
+      "title": "Avanade Angular Developer",
+      "url": "https://hermes.dio.me/certificates/cover/E539236D.jpg"
+    },
+    {
+      "id": "576",
+      "title": "Desenvolvendo SPA com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/BB5478C4.jpg"
+    },
+    {
+      "id": "577",
+      "title": "Conceitos avançados de performance e otimização usando Angular",
+      "url": "https://hermes.dio.me/certificates/cover/F09C85A9.jpg"
+    },
+    {
+      "id": "578",
+      "title": "Implementando Testes Automatizados Usando Cypress em uma Aplicação Angular",
+      "url": "https://hermes.dio.me/certificates/cover/BC714AA6.jpg"
+    },
+    {
+      "id": "579",
+      "title": "A Arquitetura de Componentes e a Gestão da Complexidade no Front-end",
+      "url": "https://hermes.dio.me/certificates/cover/D4AD2847.jpg"
+    },
+    {
+      "id": "580",
+      "title": "Resolvendo Desafios de Código em Javascript",
+      "url": "https://hermes.dio.me/certificates/cover/FE2AAA0F.jpg"
+    },
+    {
+      "id": "581",
+      "title": "Aceleração Global Dev #7 Avanade",
+      "url": "https://hermes.dio.me/certificates/cover/E8884D5F.jpg"
+    },
+    {
+      "id": "582",
+      "title": "Trabalhando com o Android Studio e Principais Ferramentas",
+      "url": "https://hermes.dio.me/certificates/cover/D40CCC18.jpg"
+    },
+    {
+      "id": "583",
+      "title": "Introdução a Arquitetura da Plataforma Android com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/ABA40BF7.jpg"
+    },
+    {
+      "id": "584",
+      "title": "Padrões e Convenções Profissionais de Codificação com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/74988522.jpg"
+    },
+    {
+      "id": "585",
+      "title": "Fundamentos de Orientação a Objetos com Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/1DE5C667.jpg"
+    },
+    {
+      "id": "586",
+      "title": "Introdução ao Kotlin",
+      "url": "https://hermes.dio.me/certificates/cover/8AC1CC89.jpg"
+    },
+    {
+      "id": "587",
+      "title": "Aceleração Global Dev #5 Impulso",
+      "url": "https://hermes.dio.me/certificates/cover/78C91996.jpg"
+    },
+    {
+      "id": "588",
+      "title": "Implementando sua Stack de Testes de Unidade e Integrados em um Projeto .NET de Crowdfunding",
+      "url": "https://hermes.dio.me/certificates/cover/7ED01B2E.jpg"
+    },
+    {
+      "id": "589",
+      "title": "Construindo um Projeto de uma API.NET Integrada ao MongoDB",
+      "url": "https://hermes.dio.me/certificates/cover/B894FCD2.jpg"
+    },
+    {
+      "id": "590",
+      "title": "Desafio prático: TDD com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/4BE10CB0.jpg"
+    },
+    {
+      "id": "591",
+      "title": "Fullstack Developer Banco Carrefour",
+      "url": "https://hermes.dio.me/certificates/cover/988EA8A1.jpg"
+    },
+    {
+      "id": "592",
+      "title": "Desafio prático: Testando aplicações .Net Core",
+      "url": "https://hermes.dio.me/certificates/cover/9D5CB851.jpg"
+    },
+    {
+      "id": "593",
+      "title": "everis FullStack Developer",
+      "url": "https://hermes.dio.me/certificates/cover/83EFD026.jpg"
+    },
+    {
+      "id": "594",
+      "title": "Requisitando Dados de uma API de Criptomoedas",
+      "url": "https://hermes.dio.me/certificates/cover/DB1848E3.jpg"
+    },
+    {
+      "id": "595",
+      "title": "Shell script - Manipulando Arquivos",
+      "url": "https://hermes.dio.me/certificates/cover/352E0CEF.jpg"
+    },
+    {
+      "id": "596",
+      "title": "Crie seu Gerenciador de Salas de Reuniões com Java e Angular",
+      "url": "https://hermes.dio.me/certificates/cover/3966F248.jpg"
+    },
+    {
+      "id": "597",
+      "title": "Introdução à programação com Python",
+      "url": "https://hermes.dio.me/certificates/cover/AEB70D6E.jpg"
+    },
+    {
+      "id": "598",
+      "title": "Desenvolvimento de Testes Unitários para Validar uma API REST de Gerenciamento Estoques de Cerveja",
+      "url": "https://hermes.dio.me/certificates/cover/810C7034.jpg"
+    },
+    {
+      "id": "599",
+      "title": "Desafio prático: Performance Web Utilizando JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/CF3F1E19.jpg"
+    },
+    {
+      "id": "600",
+      "title": "Desafio prático: Extraindo dados da web com Python",
+      "url": "https://hermes.dio.me/certificates/cover/6FB34C64.jpg"
+    },
+    {
+      "id": "601",
+      "title": "Expert Lesson: Arquitetura Hexagonal: mantendo aplicações saudáveis",
+      "url": "https://hermes.dio.me/certificates/cover/954B463A.jpg"
+    },
+    {
+      "id": "602",
+      "title": "Criando Projeto para Consultar a Previsão do Tempo via API",
+      "url": "https://hermes.dio.me/certificates/cover/568C7244.jpg"
+    },
+    {
+      "id": "603",
+      "title": "Primeiros passos com Flutter",
+      "url": "https://hermes.dio.me/certificates/cover/46E7D5DC.jpg"
+    },
+    {
+      "id": "604",
+      "title": "Desafio prático: Injeção de Dependência em .NET Core: o que é isso?",
+      "url": "https://hermes.dio.me/certificates/cover/736B719D.jpg"
+    },
+    {
+      "id": "605",
+      "title": "Aprenda o que são Estrutura de Dados e Algoritmos",
+      "url": "https://hermes.dio.me/certificates/cover/910E4100.jpg"
+    },
+    {
+      "id": "606",
+      "title": "Arquitetura de Sistemas Avançado",
+      "url": "https://hermes.dio.me/certificates/cover/9A66337E.jpg"
+    },
+    {
+      "id": "607",
+      "title": "Linux: Introdução ao Sistema Operacional",
+      "url": "https://hermes.dio.me/certificates/cover/18E1B7E2.jpg"
+    },
+    {
+      "id": "608",
+      "title": "Conceitos de responsividade e experiência do usuário",
+      "url": "https://hermes.dio.me/certificates/cover/9D36CF4C.jpg"
+    },
+    {
+      "id": "609",
+      "title": "Criando um repositório para seus projetos inovadores",
+      "url": "https://hermes.dio.me/certificates/cover/B84800A5.jpg"
+    },
+    {
+      "id": "610",
+      "title": "Criando seu Jogo de Memória Estilo Genius",
+      "url": "https://hermes.dio.me/certificates/cover/92CD7A55.jpg"
+    },
+    {
+      "id": "611",
+      "title": "GFT START_UNI 2021 #1",
+      "url": "https://hermes.dio.me/certificates/cover/954BB203.jpg"
+    },
+    {
+      "id": "612",
+      "title": "Desenvolvimento de aplicações com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/7E29F5B0.jpg"
+    },
+    {
+      "id": "613",
+      "title": "Orientação a objetos em .NET",
+      "url": "https://hermes.dio.me/certificates/cover/6EE92DA5.jpg"
+    },
+    {
+      "id": "614",
+      "title": "Recriando a Página Inicial do Instagram",
+      "url": "https://hermes.dio.me/certificates/cover/2B709DCA.jpg"
+    },
+    {
+      "id": "615",
+      "title": "Recriando o Famoso Jogo do Dinossauro sem Internet",
+      "url": "https://hermes.dio.me/certificates/cover/F0BDAA59.jpg"
+    },
+    {
+      "id": "616",
+      "title": "Programação para internet com JavaScript",
+      "url": "https://hermes.dio.me/certificates/cover/F995090A.jpg"
+    },
+    {
+      "id": "617",
+      "title": "GFT START_UNI 2021 #1",
+      "url": "https://hermes.dio.me/certificates/cover/2FFC82C3.jpg"
+    },
+    {
+      "id": "618",
+      "title": "Introdução ao domain driven design e padrões de arquitetura",
+      "url": "https://hermes.dio.me/certificates/cover/9B5771D9.jpg"
+    },
+    {
+      "id": "619",
+      "title": "Introdução à biblioteca jQuery",
+      "url": "https://hermes.dio.me/certificates/cover/1E2C3AF8.jpg"
+    },
+    {
+      "id": "620",
+      "title": "Introdução ao ReactJS",
+      "url": "https://hermes.dio.me/certificates/cover/F2742ED9.jpg"
+    },
+    {
+      "id": "621",
+      "title": "Construindo páginas para internet com Bootstrap",
+      "url": "https://hermes.dio.me/certificates/cover/0926949D.jpg"
+    },
+    {
+      "id": "622",
+      "title": "Primeiros passos com .NET",
+      "url": "https://hermes.dio.me/certificates/cover/974F9F46.jpg"
+    },
+    {
+      "id": "623",
+      "title": "Introdução ao Node.js com Express",
+      "url": "https://hermes.dio.me/certificates/cover/A0B5C7E9.jpg"
+    },
+    {
+      "id": "624",
+      "title": "Desenvolvendo um Sistema de Gerenciamento de Pessoas em API REST com Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/DBCA593C.jpg"
+    },
+    {
+      "id": "625",
+      "title": "Conheça o Banco Carrefour",
+      "url": "https://hermes.dio.me/certificates/cover/D416A9D9.jpg"
+    },
+    {
+      "id": "626",
+      "title": "Implementando Collections e Streams com Java",
+      "url": "https://hermes.dio.me/certificates/cover/7A43388B.jpg"
+    },
+    {
+      "id": "627",
+      "title": "Conceitos e Melhores Práticas com Bancos de Dados PostgreSQL",
+      "url": "https://hermes.dio.me/certificates/cover/AB318BF9.jpg"
+    },
+    {
+      "id": "628",
+      "title": "Introdução ao framework Spring Boot",
+      "url": "https://hermes.dio.me/certificates/cover/5B066174.jpg"
+    },
+    {
+      "id": "629",
+      "title": "Desenvolvimento avançado em Java",
+      "url": "https://hermes.dio.me/certificates/cover/ED2175B1.jpg"
+    },
+    {
+      "id": "630",
+      "title": "Trabalhando com Banco de Dados utilizando JDBC e JPA",
+      "url": "https://hermes.dio.me/certificates/cover/B91723CC.jpg"
+    },
+    {
+      "id": "631",
+      "title": "Recriando a Interface do Netflix",
+      "url": "https://hermes.dio.me/certificates/cover/1806D8F4.jpg"
+    },
+    {
+      "id": "632",
+      "title": "Aprenda a aplicar testes com Java",
+      "url": "https://hermes.dio.me/certificates/cover/3619BC4A.jpg"
+    },
+    {
+      "id": "633",
+      "title": "Projetos ágeis com SCRUM",
+      "url": "https://hermes.dio.me/certificates/cover/6A595D6E.jpg"
+    },
+    {
+      "id": "634",
+      "title": "Aplicações Avançadas com Angular",
+      "url": "https://hermes.dio.me/certificates/cover/FCE4415C.jpg"
+    },
+    {
+      "id": "635",
+      "title": "Criando aplicações web com Spring Web MVC",
+      "url": "https://hermes.dio.me/certificates/cover/A02E21FA.jpg"
+    },
+    {
+      "id": "636",
+      "title": "Como funciona o async/await",
+      "url": "https://hermes.dio.me/certificates/cover/2A6F65E9.jpg"
+    },
+    {
+      "id": "637",
+      "title": "Desenvolvimento básico em Java",
+      "url": "https://hermes.dio.me/certificates/cover/16C715E2.jpg"
+    },
+    {
+      "id": "638",
+      "title": "Bem-vindo à DIO",
+      "url": "https://hermes.dio.me/certificates/cover/E2251537.jpg"
+    },
+    {
+      "id": "639",
+      "title": "Técnicas avançadas em Angular 8",
+      "url": "https://hermes.dio.me/certificates/cover/267F08CB.jpg"
+    },
+    {
+      "id": "640",
+      "title": "Desmistificando map, filter e reduce",
+      "url": "https://hermes.dio.me/certificates/cover/AC0259C7.jpg"
+    },
+    {
+      "id": "641",
+      "title": "Fundamentos de Arquitetura de Sistemas",
+      "url": "https://hermes.dio.me/certificates/cover/2749C4B6.jpg"
+    },
+    {
+      "id": "642",
+      "title": "Desenvolvimento avançado com JavaScript ES6",
+      "url": "https://hermes.dio.me/certificates/cover/28FC2C85.jpg"
+    },
+    {
+      "id": "643",
+      "title": "Entendendo Promises de uma vez por todas",
+      "url": "https://hermes.dio.me/certificates/cover/DE9EFA85.jpg"
+    },
+    {
+      "id": "644",
+      "title": "Introdução ao Angular 8",
+      "url": "https://hermes.dio.me/certificates/cover/B51E75FE.jpg"
+    },
+    {
+      "id": "645",
+      "title": "JavaScript ES6 essencial",
+      "url": "https://hermes.dio.me/certificates/cover/47324BCA.jpg"
+    },
+    {
+      "id": "646",
+      "title": "Introdução a Criação de Websites com HTML5 e CSS3",
+      "url": "https://hermes.dio.me/certificates/cover/01A846DD.jpg"
+    },
+    {
+      "id": "647",
+      "title": "Lógica de Programação Essencial",
+      "url": "https://hermes.dio.me/certificates/cover/8186937C.jpg"
+    },
+    {
+      "id": "648",
+      "title": "Introdução ao Git e ao GitHub",
+      "url": "https://hermes.dio.me/certificates/cover/02562B4E.jpg"
+    },
+    {
+      "id": "649",
+      "title": "Introdução ao GitHub e comandos para trabalhar em equipe",
+      "url": "https://hermes.dio.me/certificates/cover/E829B2A0.jpg"
+    }
+  ]
