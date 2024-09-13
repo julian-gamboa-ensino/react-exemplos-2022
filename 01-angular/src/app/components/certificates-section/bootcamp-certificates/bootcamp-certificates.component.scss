@@ -1,5 +1,17 @@
+mat-card {     
+    padding: 20px;
+    margin-bottom: 20px;
+    &:hover { // Use the :hover pseudo-class to target hover state
+        background-color: rgb(236, 245, 153); // Change to your desired color
+    }   
+}
+
+
 details  summary {
     list-style: none;
+    &:hover { // Use the :hover pseudo-class to target hover state
+        background-color: lightblue; // Change to your desired color
+    }   
 }
 
 h2 {

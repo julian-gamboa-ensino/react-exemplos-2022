@@ -6,11 +6,12 @@
     <p>Ocorreu um erro ao carregar os certificados: {{ error.message }}</p>
 </div>
 
-<div *ngIf="!isLoading && !error" >
-    <details >        
-        <summary>
-            <h2>BootCamps</h2>
-        </summary>
+<div *ngIf="!isLoading && !error">
+    <mat-card>
+        <details>
+            <summary>
+                <h2>BootCamps</h2>
+            </summary>
             <ul>
                 <li *ngFor="let certificado of certificados">
 
@@ -19,6 +20,6 @@
                     </a>
                 </li>
             </ul>
-        
-    </details>
+        </details>
+    </mat-card>
 </div>

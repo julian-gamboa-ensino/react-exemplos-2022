@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CommonModule, NgFor, NgIf } from '@angular/common';
 import { CertificadoService } from '../../../services/all-certificates.service copy';
 import { Certificado } from '../../../models/certificado.model';
+import { MatCardModule } from '@angular/material/card'; 
 
 
 @Component({
@@ -9,7 +10,8 @@ import { Certificado } from '../../../models/certificado.model';
   standalone: true,
   imports: [
     NgFor ,
-    NgIf
+    NgIf,
+    MatCardModule
   ],
   templateUrl: './all-certificates.component.html',
   styleUrl: './all-certificates.component.scss'

@@ -1,11 +1,13 @@
 mat-card {
     padding: 20px;
     margin-bottom: 20px;
+    &:hover { // Use the :hover pseudo-class to target hover state
+        background-color: lightblue; // Change to your desired color
+    }   
 }
 
 .photo {
-    width: 100px;
-    height: 100px;
+    height: 100%;
     border-radius: 50%;
     object-fit: cover;
 }
