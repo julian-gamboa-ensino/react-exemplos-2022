@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule, NgFor, NgIf } from '@angular/common';
-import { CertificadoService } from '../../../services/certificado.service';
+import { CertificadoService } from '../../../services/bootcamps-certificates.service';
 import { Certificado } from '../../../models/certificado.model';
 
 

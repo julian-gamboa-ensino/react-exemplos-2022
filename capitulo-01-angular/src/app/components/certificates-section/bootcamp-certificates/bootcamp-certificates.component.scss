@@ -1,0 +1,45 @@
+details  summary {
+    list-style: none;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 15px;
+    border: 1px solid #ccc; // Adiciona uma borda sutil
+    padding: 10px;
+    border-radius: 5px; // Borda arredondada
+
+    &:last-child {
+        border-bottom: none;
+      }
+    
+      &:nth-child(odd) {
+        background-color: #c4cfff;
+      }
+}
+
+a {
+    color: #007bff; // Cor azul para links
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+
+
+.error {
+    color: red;
+    // ... outros estilos para o estado de erro
+}

@@ -1,1 +1,24 @@
-<p>bootcamp-certificates works!</p>
+<div *ngIf="isLoading">
+    <p>Carregando certificados...</p>
+</div>
+
+<div *ngIf="error">
+    <p>Ocorreu um erro ao carregar os certificados: {{ error.message }}</p>
+</div>
+
+<div *ngIf="!isLoading && !error" >
+    <details >        
+        <summary>
+            <h2>BootCamps</h2>
+        </summary>
+            <ul>
+                <li *ngFor="let certificado of certificados">
+
+                    <a [href]="certificado.url" target="_blank">
+                        {{ certificado.title }}
+                    </a>
+                </li>
+            </ul>
+        
+    </details>
+</div>
