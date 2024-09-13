@@ -1,0 +1,32 @@
+// In your app.component.scss or a dedicated stylesheet
+
+.container {
+  // Optional: Add some padding around the entire container
+  padding: 20px; 
+}
+
+.row {
+  display: flex;
+  flex-direction: row; // Ensure items are arranged horizontall
+  flex-wrap: nowrap; /* Prevent the columns from wrapping */
+}
+
+.col {
+  // Optional: Add a border for visual separation
+  // border: 1px solid lightgray; 
+  padding: 10px; // Add padding within each column
+}
+
+.text-right { /* For older browsers */
+  text-align: right; 
+}
+
+.text-end { /* For modern browsers */
+  text-align: end;
+}
+
+.grow {
+  flex-grow: 1; /* This will make the first column expand */
+  flex-basis: 60%; /* Sets the initial width to 60% */
+  flex-shrink: 0; /* Prevent the column from shrinking */
+}

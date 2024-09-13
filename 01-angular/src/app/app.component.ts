@@ -7,6 +7,7 @@ import { BootcampCertificatesComponent } from './components/certificates-section
 import { CertificatesSectionComponent } from './components/certificates-section/certificates-section.component';
 import { ProjectsSectionComponent } from "./components/projects-section/projects-section.component";
 
+
 @Component({
   selector: 'app-root',
   standalone: true,
@@ -15,7 +16,8 @@ import { ProjectsSectionComponent } from "./components/projects-section/projects
     BasicInfoComponent,
     AllCertificatesComponent,
     BootcampCertificatesComponent,
-    CertificatesSectionComponent,    ProjectsSectionComponent
+    CertificatesSectionComponent,    ProjectsSectionComponent,
+    
 ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
