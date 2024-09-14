@@ -1,5 +1,5 @@
 {
-  "name": "@agosto/spa-react-angular",
+  "name": "@setembro/setembro-14",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",

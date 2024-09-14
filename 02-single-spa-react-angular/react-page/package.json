@@ -1,5 +1,5 @@
 {
-  "name": "react-single-spa",
+  "name": "react-page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "single-spa-react": "^6.0.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
