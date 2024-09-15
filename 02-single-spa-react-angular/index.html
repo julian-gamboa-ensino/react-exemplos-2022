@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script type="systemjs-importmap">
+    {
+      "imports": {
+        "@02-single-spa-react-angular/root-config": "/root-config.js",
+        "@02-single-spa-react-angular/react-page": "/react-page/dist/main.js", 
+      }
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/systemjs@6.11.0/dist/system.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/systemjs@6.11.0/dist/extras/named-exports.min.js"></script>
+</head>
+<body>
+  <div id="root"></div> 
+  <script>
+    System.import('@meu-app/root-config'); 
+  </script>
+</body>
+</html>

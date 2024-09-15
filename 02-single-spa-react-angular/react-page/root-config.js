@@ -1,16 +1,9 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import singleSpaReact from "single-spa-react";
-import App from "./App"; // O caminho do seu componente App
+import { registerApplication, start } from 'single-spa';
 
-const lifecycles = singleSpaReact({
-  React,
-  ReactDOM,
-  rootComponent: App,
-  errorBoundary(err, info, props) {
-    // Customize a boundary for your micro frontend
-    return <div>Error occurred in micro frontend</div>;
-  },
+registerApplication({
+  name: '@meu-app/react-page', // Nome único para o microfrontend
+  app: () => System.import('@meu-app/react-page'), // Carrega o microfrontend
+  activeWhen: ['/react-page'], // Rota que ativa o microfrontend
 });
 
-export const { bootstrap, mount, unmount } = lifecycles;
+start();

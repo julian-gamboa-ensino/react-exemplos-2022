@@ -5,14 +5,14 @@ export default defineConfig({
   plugins: [react()],
   build: {
     lib: {
-      entry: 'src/main.js',
-      formats: ['system'],
-      name: 'my-react-app',
+      entry: 'src/main.tsx', 
+      name: 'react-page', 
+      formats: ['system'], 
     },
     rollupOptions: {
-      output: {
-        format: 'system',
-      },
-    },
-  },
-})
+      output:{
+        format: 'system'
+      }
+    }
+  }
+})  ;
