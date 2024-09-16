@@ -2,6 +2,7 @@ import BasicInfo from './components/BasicInfo/BasicInfo';
 import CertificatesSection from './components/CertificatesSection/CertificatesSection';
 
 import Grid from '@mui/material/Grid';
+import CognitoLogin from './components/CognitoLogin/CognitoLogin';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       </Grid>
       <Grid item xs={12} sm={3}> {/* Use the same width as the first column */}
         <CertificatesSection />
+        <CognitoLogin/>
       </Grid>
     </Grid>
   );
