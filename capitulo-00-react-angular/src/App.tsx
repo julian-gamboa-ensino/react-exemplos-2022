@@ -15,10 +15,11 @@ function App() {
           gitUrl="https://github.com/julian-gamboa-ensino/"
           photoUrl="https://avatars.githubusercontent.com/u/35019237?v=4"
         />
+        <CognitoLogin/>
       </Grid>
       <Grid item xs={12} sm={3}> {/* Use the same width as the first column */}
         <CertificatesSection />
-        <CognitoLogin/>
+        
       </Grid>
     </Grid>
   );
