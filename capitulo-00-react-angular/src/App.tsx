@@ -18,8 +18,7 @@ function App() {
         <CognitoLogin/>
       </Grid>
       <Grid item xs={12} sm={3}> {/* Use the same width as the first column */}
-        <CertificatesSection />
-        
+        <CertificatesSection />        
       </Grid>
     </Grid>
   );
