@@ -11,7 +11,7 @@ Amplify.configure(awsconfig);
 async function currentSession() {
     try {
         const { tokens } = await fetchAuthSession({ forceRefresh: true });
-        console.log(tokens?.accessToken);
+        console.log(tokens?.accessToken.toString());
     } catch (err) {
         console.log(err);
     }
@@ -28,12 +28,6 @@ const CognitoLogin = () => {
     return (
         <Authenticator>
             {({ signOut, user }) => {
-                if (user) {
-
-
-                }
-
-
 
                 return user ? (
                     <div>
