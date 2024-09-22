@@ -11,7 +11,10 @@ type Conta struct {
 	Saldo   Dinheiro.Dinheiro
 }
 
-func (c *Conta) RealizarDeposito(valor Dinheiro.Dinheiro) error {
+func (c *Conta) RealizarDeposito(valor Dinheiro.Dinheiro, acessoConta chan bool) error {
+	acessoConta <- true                     // Solicita acesso à conta
+	defer func() { acessoConta <- false }() // Libera o acesso ao final da função
+
 	if valor.Valor <= 0 {
 		return errors.New("valor do depósito deve ser maior que zero")
 	}
@@ -19,17 +22,23 @@ func (c *Conta) RealizarDeposito(valor Dinheiro.Dinheiro) error {
 	return nil
 }
 
-func (c *Conta) RealizarSaque(valor Dinheiro.Dinheiro) error {
-	if valor.Valor > c.Saldo.Valor {
-		return errors.New("saldo insuficiente")
-	}
-	c.Saldo = c.Saldo.Subtrair(valor)
-	return nil
+// ... (Adapte os métodos RealizarSaque e RealizarTransferencia de forma similar)
+
+type GerenciadorConcorrencia struct {
+	acessoContas map[string]chan bool
 }
 
-func (c *Conta) RealizarTransferencia(destino *Conta, valor Dinheiro.Dinheiro) error {
-	if err := c.RealizarSaque(valor); err != nil {
-		return err
+func NovoGerenciadorConcorrencia() *GerenciadorConcorrencia {
+	return &GerenciadorConcorrencia{
+		acessoContas: make(map[string]chan bool),
 	}
-	return destino.RealizarDeposito(valor)
+}
+
+func (g *GerenciadorConcorrencia) ObterAcessoConta(contaID string) chan bool {
+	g.acessoContas[contaID] = make(chan bool, 1) // Cria um channel bufferizado para evitar bloqueios
+	return g.acessoContas[contaID]
+}
+
+func (g *GerenciadorConcorrencia) LiberarAcessoConta(contaID string) {
+	delete(g.acessoContas, contaID)
 }
