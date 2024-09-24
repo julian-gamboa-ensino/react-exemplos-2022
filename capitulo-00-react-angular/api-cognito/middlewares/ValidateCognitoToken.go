@@ -1,7 +1,9 @@
 package middlewares
 
 import (
+	"bytes"
 	"crypto/rsa"
+	"encoding/base64"
 	"encoding/hex"
 	"encoding/json"
 	"fmt"
@@ -64,6 +66,18 @@ func ValidateCognitoToken(info string) gin.HandlerFunc {
 
 		token := parsedToken.(*jwt.Token)
 
+		// Check if the token payload is of type MapClaims
+		if claims, ok := token.Claims.(jwt.MapClaims); ok {
+			// Print the entire payload
+			fmt.Println("Token Payload:", claims)
+
+			// Access the 'iss' claim
+			iss := claims["iss"]
+			fmt.Println("Issuer (iss):", iss)
+		} else {
+			fmt.Println("Invalid token payload format")
+		}
+
 		if _, ok := token.Method.(*jwt.SigningMethodRSA); !ok {
 			c.JSON(http.StatusUnauthorized, gin.H{"error": "Unexpected signing method"})
 			c.Abort()
@@ -71,6 +85,7 @@ func ValidateCognitoToken(info string) gin.HandlerFunc {
 		}
 
 		jwkSet, err := getCognitoJWKS(jwksURL)
+		fmt.Println("         jwkSet  ", jwkSet)
 		if err != nil {
 			c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to get JWKS"})
 			c.Abort()
@@ -79,13 +94,28 @@ func ValidateCognitoToken(info string) gin.HandlerFunc {
 
 		kid := token.Header["kid"].(string)
 
-		fmt.Println("KID:", kid)
+		fmt.Println("KID (Base64):", kid)
+
+		// Decode the kid from Base64
+		decodedKid, err := base64.StdEncoding.DecodeString(kid)
+		if err != nil {
+			c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to decode kid from Base64: " + err.Error()})
+			c.Abort()
+			return
+		}
+
+		fmt.Println("KID (Decoded):", decodedKid)
 
 		var publicKey *rsa.PublicKey
 
 		for _, key := range jwkSet.Keys {
-			if key.Kid == kid {
-				// Decode N and E from hex to byte arrays
+
+			fmt.Println("Key Kid:", key.Kid)
+
+			fmt.Printf("Decoded Kid (hex): %x\n", decodedKid)
+			fmt.Printf("Key Kid (hex): %x\n", bytes.TrimSpace([]byte(key.Kid)))
+
+			if bytes.Equal(decodedKid, []byte(key.Kid)) {
 				nBytes, err := hex.DecodeString(key.N)
 				if err != nil {
 					c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to decode key N: " + err.Error()})
