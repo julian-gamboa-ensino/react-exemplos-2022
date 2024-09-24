@@ -1,10 +1,8 @@
 package middlewares
 
 import (
-	"bytes"
 	"crypto/rsa"
 	"encoding/base64"
-	"encoding/hex"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
@@ -109,21 +107,18 @@ func ValidateCognitoToken(info string) gin.HandlerFunc {
 		var publicKey *rsa.PublicKey
 
 		for _, key := range jwkSet.Keys {
-
 			fmt.Println("Key Kid:", key.Kid)
 
-			fmt.Printf("Decoded Kid (hex): %x\n", decodedKid)
-			fmt.Printf("Key Kid (hex): %x\n", bytes.TrimSpace([]byte(key.Kid)))
-
-			if bytes.Equal(decodedKid, []byte(key.Kid)) {
-				nBytes, err := hex.DecodeString(key.N)
+			// Comparar diretamente o kid como strings
+			if kid == key.Kid {
+				nBytes, err := base64.RawURLEncoding.DecodeString(key.N)
 				if err != nil {
 					c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to decode key N: " + err.Error()})
 					c.Abort()
 					return
 				}
 
-				eBytes, err := hex.DecodeString(key.E)
+				eBytes, err := base64.RawURLEncoding.DecodeString(key.E)
 				if err != nil {
 					c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to decode key E: " + err.Error()})
 					c.Abort()
@@ -144,17 +139,32 @@ func ValidateCognitoToken(info string) gin.HandlerFunc {
 			return
 		}
 
-		// Validar o token com a chave pública e extrair as claims
 		claims := jwt.MapClaims{}
-		_, err = jwt.ParseWithClaims(token.Raw, claims, func(token *jwt.Token) (interface{}, error) {
+		tokenParsed, err := jwt.ParseWithClaims(token.Raw, claims, func(token *jwt.Token) (interface{}, error) {
+			// Verifique se o método de assinatura é RSA
+			if _, ok := token.Method.(*jwt.SigningMethodRSA); !ok {
+				return nil, fmt.Errorf("unexpected signing method: %v", token.Header["alg"])
+			}
+			// Retorne a chave pública RSA
 			return publicKey, nil
 		})
 
 		if err != nil {
+			fmt.Println("Error parsing token:", err)
+			c.JSON(http.StatusUnauthorized, gin.H{"error": "Invalid token: " + err.Error()})
+			c.Abort()
+			return
+		}
+
+		// Se o token não for válido, retornar erro
+		if !tokenParsed.Valid {
 			c.JSON(http.StatusUnauthorized, gin.H{"error": "Invalid token"})
 			c.Abort()
 			return
 		}
+
+		fmt.Println("Token is valid. Claims:", claims)
 		c.Next()
+
 	}
 }
