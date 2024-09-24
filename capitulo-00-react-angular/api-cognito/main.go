@@ -17,6 +17,7 @@ func main() {
 
 	r.GET("/protected",
 		middlewares.ParseJWT(),
+		middlewares.ValidateCognitoToken("Verificando as Chaves"),
 		middlewares.JwtExpirationCheck("Verificando a expiração do token"),
 		middlewares.CheckGroup("Verificando o grupo passado como argumento", "angular17"),
 		middleware,
